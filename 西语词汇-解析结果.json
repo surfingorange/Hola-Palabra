@@ -1,0 +1,5028 @@
+{
+ "A1": [
+  {
+   "spanish": "pelo  拉美",
+   "chinese": "m. 头发, 毛发"
+  },
+  {
+   "spanish": "ojo  拉美",
+   "chinese": "m. 眼睛"
+  },
+  {
+   "spanish": "nariz  拉美",
+   "chinese": "f. 鼻子"
+  },
+  {
+   "spanish": "alto  拉美",
+   "chinese": "adj. 高的"
+  },
+  {
+   "spanish": "bajo  拉美",
+   "chinese": "adj. 矮的，低的"
+  },
+  {
+   "spanish": "gordo  拉美",
+   "chinese": "adj. 胖的"
+  },
+  {
+   "spanish": "delgado  拉美",
+   "chinese": "adj. 瘦的"
+  },
+  {
+   "spanish": "guapo  拉美",
+   "chinese": "adj. 漂亮的；m.,f. 帅哥，美女"
+  },
+  {
+   "spanish": "feo  拉美",
+   "chinese": "adj. 丑的"
+  },
+  {
+   "spanish": "pelo rubio  拉美",
+   "chinese": "金头发"
+  },
+  {
+   "spanish": "tener barba  拉美",
+   "chinese": "有胡须"
+  },
+  {
+   "spanish": "tener bigote  拉美",
+   "chinese": "有髭（上唇至人中部位的胡子）"
+  },
+  {
+   "spanish": "llevar gafas  拉美",
+   "chinese": "戴眼镜"
+  },
+  {
+   "spanish": "tener los ojos grandes  拉美",
+   "chinese": "有大眼睛"
+  },
+  {
+   "spanish": "tener los ojos pequeños  拉美",
+   "chinese": "有小眼睛"
+  },
+  {
+   "spanish": "levantarse  拉美",
+   "chinese": "prnl. 起床，起身；Carácter y personalidad 性格"
+  },
+  {
+   "spanish": "simpático  拉美",
+   "chinese": "adj. 和蔼可亲的"
+  },
+  {
+   "spanish": "antipático  拉美",
+   "chinese": "adj. 令人厌恶的"
+  },
+  {
+   "spanish": "inteligente  拉美",
+   "chinese": "adj. 聪明的"
+  },
+  {
+   "spanish": "trabajador  拉美",
+   "chinese": "adj. 勤劳的"
+  },
+  {
+   "spanish": "alegre  拉美",
+   "chinese": "adj. 高兴的，愉悦的，开朗的"
+  },
+  {
+   "spanish": "serio  拉美",
+   "chinese": "adj. 严肃的"
+  },
+  {
+   "spanish": "tímido  拉美",
+   "chinese": "adj. 害羞的，胆怯的"
+  },
+  {
+   "spanish": "sociable  拉美",
+   "chinese": "adj. 爱社交的；Identidad personal 个人身份"
+  },
+  {
+   "spanish": "nombre  拉美",
+   "chinese": "m. 名字"
+  },
+  {
+   "spanish": "primer apellido  拉美",
+   "chinese": "第一姓氏"
+  },
+  {
+   "spanish": "segundo apellido  拉美",
+   "chinese": "第二姓氏"
+  },
+  {
+   "spanish": "señor  拉美",
+   "chinese": "m. 先生"
+  },
+  {
+   "spanish": "señora  拉美",
+   "chinese": "f. 女士"
+  },
+  {
+   "spanish": "firmar  拉美",
+   "chinese": "tr. 签字"
+  },
+  {
+   "spanish": "llamarse  拉美",
+   "chinese": "prnl. 叫…名字"
+  },
+  {
+   "spanish": "dirección  拉美",
+   "chinese": "f. 地址"
+  },
+  {
+   "spanish": "correo electrónico  拉美",
+   "chinese": "电子邮件"
+  },
+  {
+   "spanish": "calle  拉美",
+   "chinese": "f. 街"
+  },
+  {
+   "spanish": "avenida  拉美",
+   "chinese": "f. 大道"
+  },
+  {
+   "spanish": "paseo  拉美",
+   "chinese": "m. 步行道，散步"
+  },
+  {
+   "spanish": "número  拉美",
+   "chinese": "m. 数字，号码"
+  },
+  {
+   "spanish": "código postal  拉美",
+   "chinese": "邮政编码"
+  },
+  {
+   "spanish": "país  拉美",
+   "chinese": "m. 国家"
+  },
+  {
+   "spanish": "ciudad  拉美",
+   "chinese": "f. 城市"
+  },
+  {
+   "spanish": "pueblo  拉美",
+   "chinese": "m. 村子"
+  },
+  {
+   "spanish": "vivir  拉美",
+   "chinese": "intr. 生活 生存"
+  },
+  {
+   "spanish": "número de teléfono  拉美",
+   "chinese": "电话号码"
+  },
+  {
+   "spanish": "móvil  拉美",
+   "chinese": "m. 手机"
+  },
+  {
+   "spanish": "lugar de nacimiento  拉美",
+   "chinese": "出生地"
+  },
+  {
+   "spanish": "fecha de nacimiento  拉美",
+   "chinese": "出生日期"
+  },
+  {
+   "spanish": "nacionalidad  拉美",
+   "chinese": "f. 国籍；48."
+  },
+  {
+   "spanish": "extranjero  拉美",
+   "chinese": "adj. 外国的；m.,f. 外国人；m. 外国；49."
+  },
+  {
+   "spanish": "español  拉美",
+   "chinese": "adj.  西班牙的；m.,f.  西班牙人；m.  西班牙语"
+  },
+  {
+   "spanish": "alemán  拉美",
+   "chinese": "adj.  德国的；m.,f.  德国人；m.  德语"
+  },
+  {
+   "spanish": "mexicano  拉美",
+   "chinese": "adj.  墨西哥的；m.,f.  墨西哥人"
+  },
+  {
+   "spanish": "japonés  拉美",
+   "chinese": "adj.  日本的；m.,f.  日本人；m.  日语"
+  },
+  {
+   "spanish": "ser de Laos  拉美",
+   "chinese": "是老挝人"
+  },
+  {
+   "spanish": "edad  拉美",
+   "chinese": "f. 年龄"
+  },
+  {
+   "spanish": "niño  拉美",
+   "chinese": "m.,f. 儿童，孩子"
+  },
+  {
+   "spanish": "chico  拉美",
+   "chinese": "m.,f. 小孩  adj. 小的，年幼的"
+  },
+  {
+   "spanish": "joven  拉美",
+   "chinese": "adj. 年轻的；m.,f. 年轻人"
+  },
+  {
+   "spanish": "viejo  拉美",
+   "chinese": "adj. 老的，旧的；m.,f. 老人"
+  },
+  {
+   "spanish": "tener 18 años  拉美",
+   "chinese": "18岁"
+  },
+  {
+   "spanish": "hombre  拉美",
+   "chinese": "m. 男人"
+  },
+  {
+   "spanish": "mujer  拉美",
+   "chinese": "f. 女人"
+  },
+  {
+   "spanish": "estado civil  拉美",
+   "chinese": "婚姻状况"
+  },
+  {
+   "spanish": "soltero  拉美",
+   "chinese": "adj. 单身的"
+  },
+  {
+   "spanish": "casado  拉美",
+   "chinese": "adj. 已婚的"
+  },
+  {
+   "spanish": "viudo  拉美",
+   "chinese": "adj. 丧偶的"
+  },
+  {
+   "spanish": "separado  拉美",
+   "chinese": "adj. 分开的"
+  },
+  {
+   "spanish": "divorciado  拉美",
+   "chinese": "adj. 离婚的"
+  },
+  {
+   "spanish": "llave  拉美",
+   "chinese": "f. 钥匙"
+  },
+  {
+   "spanish": "cartera  拉美",
+   "chinese": "f. 钱包"
+  },
+  {
+   "spanish": "reloj  拉美",
+   "chinese": "m. 手表，时钟"
+  },
+  {
+   "spanish": "gafas  拉美",
+   "chinese": "f.[pl.] 眼镜；Relaciones personales  人物关系"
+  },
+  {
+   "spanish": "familia  拉美",
+   "chinese": "f. 家庭，家人"
+  },
+  {
+   "spanish": "padres  拉美",
+   "chinese": "m.[pl.] 父母"
+  },
+  {
+   "spanish": "padre  拉美",
+   "chinese": "m. 父亲"
+  },
+  {
+   "spanish": "madre  拉美",
+   "chinese": "f. 母亲"
+  },
+  {
+   "spanish": "hijo  拉美",
+   "chinese": "m.,f 子，女"
+  },
+  {
+   "spanish": "hermano  拉美",
+   "chinese": "m.,f 兄弟，姐妹"
+  },
+  {
+   "spanish": "tío  拉美",
+   "chinese": "m.,f  伯父, 叔父, 姑父, 舅父，姨父；伯母， 婶母， 姑母， 舅母， 姨母"
+  },
+  {
+   "spanish": "sobrino  拉美",
+   "chinese": "m.,f 侄子，外甥，侄女, 外甥女"
+  },
+  {
+   "spanish": "abuelo  拉美",
+   "chinese": "m.,f. 爷爷，奶奶，姥爷，姥爷"
+  },
+  {
+   "spanish": "nieto  拉美",
+   "chinese": "m.,f. 孙子，孙女，外孙，外孙女"
+  },
+  {
+   "spanish": "primo  拉美",
+   "chinese": "m.,f. 表兄弟，表姐妹"
+  },
+  {
+   "spanish": "pareja  拉美",
+   "chinese": "f. 伴侣"
+  },
+  {
+   "spanish": "novio  拉美",
+   "chinese": "m.,f. 男朋友，女朋友"
+  },
+  {
+   "spanish": "amigo  拉美",
+   "chinese": "m.,f. 朋友"
+  },
+  {
+   "spanish": "jefe  拉美",
+   "chinese": "m.,f. 老板，首领"
+  },
+  {
+   "spanish": "fiesta  拉美",
+   "chinese": "f. 聚会；Alimentación  食物"
+  },
+  {
+   "spanish": "desayuno  拉美",
+   "chinese": "m. 早饭"
+  },
+  {
+   "spanish": "comida  拉美",
+   "chinese": "f. 午饭，食物"
+  },
+  {
+   "spanish": "merienda  拉美",
+   "chinese": "f. 午后小吃"
+  },
+  {
+   "spanish": "cena  拉美",
+   "chinese": "f. 晚饭"
+  },
+  {
+   "spanish": "desayunar  拉美",
+   "chinese": "intr.  吃早饭；tr.吃…作为早饭"
+  },
+  {
+   "spanish": "comer  拉美",
+   "chinese": "tr.-intr. 吃饭，吃午饭"
+  },
+  {
+   "spanish": "merendar  拉美",
+   "chinese": "intr. 吃午后点心；tr.吃…作为午后点心"
+  },
+  {
+   "spanish": "cenar  拉美",
+   "chinese": "tr.-intr. 吃晚饭"
+  },
+  {
+   "spanish": "agua  拉美",
+   "chinese": "f. 水"
+  },
+  {
+   "spanish": "agua mineral  拉美",
+   "chinese": "矿泉水"
+  },
+  {
+   "spanish": "leche  拉美",
+   "chinese": "f. 牛奶"
+  },
+  {
+   "spanish": "té  拉美",
+   "chinese": "m. 茶"
+  },
+  {
+   "spanish": "café  拉美",
+   "chinese": "m. 咖啡"
+  },
+  {
+   "spanish": "café solo  拉美",
+   "chinese": "纯咖啡"
+  },
+  {
+   "spanish": "café con leche  拉美",
+   "chinese": "牛奶咖啡"
+  },
+  {
+   "spanish": "café cortado  拉美",
+   "chinese": "牛奶咖啡（多咖少奶）"
+  },
+  {
+   "spanish": "cerveza  拉美",
+   "chinese": "f. 啤酒"
+  },
+  {
+   "spanish": "vino blanco  拉美",
+   "chinese": "白葡萄酒"
+  },
+  {
+   "spanish": "vino tinto  拉美",
+   "chinese": "红葡萄酒"
+  },
+  {
+   "spanish": "beber  拉美",
+   "chinese": "intr. -tr. 喝"
+  },
+  {
+   "spanish": "carne  拉美",
+   "chinese": "f. 肉"
+  },
+  {
+   "spanish": "pescado  拉美",
+   "chinese": "m. 鱼"
+  },
+  {
+   "spanish": "fruta  拉美",
+   "chinese": "f. 水果"
+  },
+  {
+   "spanish": "verdura  拉美",
+   "chinese": "f. 蔬菜"
+  },
+  {
+   "spanish": "huevo  拉美",
+   "chinese": "m. 鸡蛋"
+  },
+  {
+   "spanish": "pan  拉美",
+   "chinese": "m. 面包"
+  },
+  {
+   "spanish": "bocadillo  拉美",
+   "chinese": "m. 西班牙三明治"
+  },
+  {
+   "spanish": "sándwich  拉美",
+   "chinese": "m. 三明治"
+  },
+  {
+   "spanish": "hamburguesa  拉美",
+   "chinese": "f. 汉堡包"
+  },
+  {
+   "spanish": "primer plato  拉美",
+   "chinese": "第一道菜"
+  },
+  {
+   "spanish": "segundo plato  拉美",
+   "chinese": "第二道菜"
+  },
+  {
+   "spanish": "plato  拉美",
+   "chinese": "m. 菜，盘子"
+  },
+  {
+   "spanish": "postre  拉美",
+   "chinese": "m. 甜品"
+  },
+  {
+   "spanish": "sopa  拉美",
+   "chinese": "f. 汤"
+  },
+  {
+   "spanish": "ensalada  拉美",
+   "chinese": "f. 沙拉"
+  },
+  {
+   "spanish": "paella  拉美",
+   "chinese": "f. 海鲜饭"
+  },
+  {
+   "spanish": "tortilla  拉美",
+   "chinese": "f. 鸡蛋饼，玉米饼[拉美]"
+  },
+  {
+   "spanish": "bar  拉美",
+   "chinese": "m. 酒吧"
+  },
+  {
+   "spanish": "restaurante  拉美",
+   "chinese": "m. 餐厅"
+  },
+  {
+   "spanish": "camarero  拉美",
+   "chinese": "m.,f. 服务员  [拉美] mesero"
+  },
+  {
+   "spanish": "mesa  拉美",
+   "chinese": "f. 桌子"
+  },
+  {
+   "spanish": "menú  拉美",
+   "chinese": "m. 菜单"
+  },
+  {
+   "spanish": "cuenta  拉美",
+   "chinese": "f. 账单；Educación  教育"
+  },
+  {
+   "spanish": "instituto  拉美",
+   "chinese": "m. 学院，协会"
+  },
+  {
+   "spanish": "universidad  拉美",
+   "chinese": "f. 大学"
+  },
+  {
+   "spanish": "clase  拉美",
+   "chinese": "f. 课程"
+  },
+  {
+   "spanish": "biblioteca  拉美",
+   "chinese": "f. 图书馆"
+  },
+  {
+   "spanish": "profesor  拉美",
+   "chinese": "m.,f. 教师，教授"
+  },
+  {
+   "spanish": "estudiante  拉美",
+   "chinese": "m.,f. 学生"
+  },
+  {
+   "spanish": "director  拉美",
+   "chinese": "m.,f. 领导者，负责人"
+  },
+  {
+   "spanish": "compañero  拉美",
+   "chinese": "m.,f. 同伴，同学"
+  },
+  {
+   "spanish": "clase de español  拉美",
+   "chinese": "西班牙语课"
+  },
+  {
+   "spanish": "examen  拉美",
+   "chinese": "m. 考试"
+  },
+  {
+   "spanish": "aprender  拉美",
+   "chinese": "tr. 学习，掌握"
+  },
+  {
+   "spanish": "estudiar  拉美",
+   "chinese": "tr. 学"
+  },
+  {
+   "spanish": "ir a clase  拉美",
+   "chinese": "去上课"
+  },
+  {
+   "spanish": "hacer un examen  拉美",
+   "chinese": "参加一个考试"
+  },
+  {
+   "spanish": "ejercicio  拉美",
+   "chinese": "m. 练习"
+  },
+  {
+   "spanish": "actividad  拉美",
+   "chinese": "f. 活动"
+  },
+  {
+   "spanish": "lección  拉美",
+   "chinese": "f. 课"
+  },
+  {
+   "spanish": "unidad  拉美",
+   "chinese": "f. 单元"
+  },
+  {
+   "spanish": "página  拉美",
+   "chinese": "f. 页"
+  },
+  {
+   "spanish": "pregunta  拉美",
+   "chinese": "f. 问题"
+  },
+  {
+   "spanish": "en parejas  拉美",
+   "chinese": "按两人一组，成对的"
+  },
+  {
+   "spanish": "en grupos  拉美",
+   "chinese": "按组"
+  },
+  {
+   "spanish": "hablar  拉美",
+   "chinese": "intr. 说话 tr. 会讲某种语言"
+  },
+  {
+   "spanish": "leer  拉美",
+   "chinese": "tr. 阅读"
+  },
+  {
+   "spanish": "escribir  拉美",
+   "chinese": "tr. 写"
+  },
+  {
+   "spanish": "entender  拉美",
+   "chinese": "tr. 明白  intr. 懂得"
+  },
+  {
+   "spanish": "comprender  拉美",
+   "chinese": "tr. 明白，理解"
+  },
+  {
+   "spanish": "saber  拉美",
+   "chinese": "tr. 知道"
+  },
+  {
+   "spanish": "repetir  拉美",
+   "chinese": "tr. 重复"
+  },
+  {
+   "spanish": "practicar  拉美",
+   "chinese": "tr. 练习"
+  },
+  {
+   "spanish": "hacer los deberes  拉美",
+   "chinese": "写作业"
+  },
+  {
+   "spanish": "hacer un ejercicio  拉美",
+   "chinese": "做个练习"
+  },
+  {
+   "spanish": "internet  拉美",
+   "chinese": "m. 互联网"
+  },
+  {
+   "spanish": "libro  拉美",
+   "chinese": "m. 书"
+  },
+  {
+   "spanish": "diccionario  拉美",
+   "chinese": "m. 字典"
+  },
+  {
+   "spanish": "papel  拉美",
+   "chinese": "m. 纸"
+  },
+  {
+   "spanish": "bolígrafo  拉美",
+   "chinese": "m. 圆珠笔  [墨西哥] lapicero"
+  },
+  {
+   "spanish": "lápiz  拉美",
+   "chinese": "m. 铅笔"
+  },
+  {
+   "spanish": "goma  拉美",
+   "chinese": "f. 橡皮"
+  },
+  {
+   "spanish": "fotocopia  拉美",
+   "chinese": "f. 复印件"
+  },
+  {
+   "spanish": "silla  拉美",
+   "chinese": "f. 椅子"
+  },
+  {
+   "spanish": "armario  拉美",
+   "chinese": "m. 柜子"
+  },
+  {
+   "spanish": "estantería  拉美",
+   "chinese": "f. 带隔板的家具"
+  },
+  {
+   "spanish": "pizarra  拉美",
+   "chinese": "f. 黑板"
+  },
+  {
+   "spanish": "ordenador  拉美",
+   "chinese": "m. 电脑  [拉美] computadora"
+  },
+  {
+   "spanish": "mapa  拉美",
+   "chinese": "m. 地图；Trabajo  工作"
+  },
+  {
+   "spanish": "abogado  拉美",
+   "chinese": "m.,f. 律师"
+  },
+  {
+   "spanish": "médico  拉美",
+   "chinese": "m.,f. 医生"
+  },
+  {
+   "spanish": "taxista  拉美",
+   "chinese": "m.,f. 出租车司机"
+  },
+  {
+   "spanish": "ama de casa  拉美",
+   "chinese": "家庭主妇"
+  },
+  {
+   "spanish": "ingeniero  拉美",
+   "chinese": "m.,f. 工程师"
+  },
+  {
+   "spanish": "dedicarse a  拉美",
+   "chinese": "从事…工作"
+  },
+  {
+   "spanish": "lugar de trabajo  拉美",
+   "chinese": "工作地点"
+  },
+  {
+   "spanish": "empresa  拉美",
+   "chinese": "f. 公司"
+  },
+  {
+   "spanish": "oficina  拉美",
+   "chinese": "f. 办公室"
+  },
+  {
+   "spanish": "tienda  拉美",
+   "chinese": "f. 商店"
+  },
+  {
+   "spanish": "teléfono  拉美",
+   "chinese": "m. 电话"
+  },
+  {
+   "spanish": "fax  拉美",
+   "chinese": "m. 传真"
+  },
+  {
+   "spanish": "trabajo  拉美",
+   "chinese": "m. 工作"
+  },
+  {
+   "spanish": "profesión  拉美",
+   "chinese": "f. 职业"
+  },
+  {
+   "spanish": "comprar  拉美",
+   "chinese": "tr. 买"
+  },
+  {
+   "spanish": "vender  拉美",
+   "chinese": "tr. 卖"
+  },
+  {
+   "spanish": "estar en paro  拉美",
+   "chinese": "失业"
+  },
+  {
+   "spanish": "trabajar  拉美",
+   "chinese": "intr. 工作；Ocio  娱乐"
+  },
+  {
+   "spanish": "vacaciones  拉美",
+   "chinese": "f.[pl.]假期"
+  },
+  {
+   "spanish": "turista  拉美",
+   "chinese": "m.,f. 游客"
+  },
+  {
+   "spanish": "oficina de información  拉美",
+   "chinese": "信息咨询处"
+  },
+  {
+   "spanish": "viajar  拉美",
+   "chinese": "intr. 旅游"
+  },
+  {
+   "spanish": "leer el periódico  拉美",
+   "chinese": "读报纸"
+  },
+  {
+   "spanish": "leer un libro  拉美",
+   "chinese": "读本书"
+  },
+  {
+   "spanish": "leer una revista  拉美",
+   "chinese": "读本杂志"
+  },
+  {
+   "spanish": "ver la televisión  拉美",
+   "chinese": "看电视"
+  },
+  {
+   "spanish": "ver una película  拉美",
+   "chinese": "看一部电影"
+  },
+  {
+   "spanish": "escuchar música  拉美",
+   "chinese": "听音乐"
+  },
+  {
+   "spanish": "escuchar la radio  拉美",
+   "chinese": "听广播"
+  },
+  {
+   "spanish": "escuchar una canción  拉美",
+   "chinese": "听首歌"
+  },
+  {
+   "spanish": "ir a un café  拉美",
+   "chinese": "去家咖啡厅"
+  },
+  {
+   "spanish": "ir a un restaurante  拉美",
+   "chinese": "去家餐厅"
+  },
+  {
+   "spanish": "ir a un museo  拉美",
+   "chinese": "去家博物馆"
+  },
+  {
+   "spanish": "ir al cine  拉美",
+   "chinese": "去电影院"
+  },
+  {
+   "spanish": "ir al teatro  拉美",
+   "chinese": "去剧院"
+  },
+  {
+   "spanish": "ir al parque  拉美",
+   "chinese": "去公园"
+  },
+  {
+   "spanish": "ir al circo  拉美",
+   "chinese": "去看马戏"
+  },
+  {
+   "spanish": "cantar  拉美",
+   "chinese": "intr. 唱歌"
+  },
+  {
+   "spanish": "bailar  拉美",
+   "chinese": "intr. 跳舞"
+  },
+  {
+   "spanish": "película  拉美",
+   "chinese": "f. 电影"
+  },
+  {
+   "spanish": "concierto  拉美",
+   "chinese": "m. 音乐会"
+  },
+  {
+   "spanish": "correr  拉美",
+   "chinese": "intr. 跑步"
+  },
+  {
+   "spanish": "nadar  拉美",
+   "chinese": "intr. 游泳"
+  },
+  {
+   "spanish": "esquiar  拉美",
+   "chinese": "intr. 滑雪"
+  },
+  {
+   "spanish": "hacer deporte  拉美",
+   "chinese": "做体育运动"
+  },
+  {
+   "spanish": "hacer ejercicio  拉美",
+   "chinese": "做运动"
+  },
+  {
+   "spanish": "hacer gimnasia  拉美",
+   "chinese": "做体操"
+  },
+  {
+   "spanish": "jugar al fútbol  拉美",
+   "chinese": "踢足球"
+  },
+  {
+   "spanish": "jugar al baloncesto  拉美",
+   "chinese": "打篮球"
+  },
+  {
+   "spanish": "jugar al tenis  拉美",
+   "chinese": "打网球"
+  },
+  {
+   "spanish": "juego  拉美",
+   "chinese": "m. 游戏；Información y comunicación  信息与通信"
+  },
+  {
+   "spanish": "sobre  拉美",
+   "chinese": "m. 信封"
+  },
+  {
+   "spanish": "sello  拉美",
+   "chinese": "m. 印章"
+  },
+  {
+   "spanish": "escribir una postal  拉美",
+   "chinese": "写张明信片"
+  },
+  {
+   "spanish": "escribir una carta  拉美",
+   "chinese": "写封信"
+  },
+  {
+   "spanish": "escribir un correo electrónico  拉美",
+   "chinese": "写封电子邮件"
+  },
+  {
+   "spanish": "teléfono fijo  拉美",
+   "chinese": "固定电话"
+  },
+  {
+   "spanish": "quiosco  拉美",
+   "chinese": "m. 报亭"
+  },
+  {
+   "spanish": "arroba  拉美",
+   "chinese": "f. @（艾特）"
+  },
+  {
+   "spanish": "guión  拉美",
+   "chinese": "m. 连字符号[-]"
+  },
+  {
+   "spanish": "guión bajo  拉美",
+   "chinese": "下划线"
+  },
+  {
+   "spanish": "punto  拉美",
+   "chinese": "m. 句号，点"
+  },
+  {
+   "spanish": "página web  拉美",
+   "chinese": "网页；Vivienda 住宅"
+  },
+  {
+   "spanish": "casa  拉美",
+   "chinese": "f. 家"
+  },
+  {
+   "spanish": "piso  拉美",
+   "chinese": "m. 公寓，地面，层"
+  },
+  {
+   "spanish": "apartamento  拉美",
+   "chinese": "m. 公寓"
+  },
+  {
+   "spanish": "estudio  拉美",
+   "chinese": "m. 单身公寓，工作室"
+  },
+  {
+   "spanish": "habitación  拉美",
+   "chinese": "f. 房间"
+  },
+  {
+   "spanish": "ascensor  拉美",
+   "chinese": "m. 电梯"
+  },
+  {
+   "spanish": "escalera  拉美",
+   "chinese": "f. 楼梯"
+  },
+  {
+   "spanish": "terraza  拉美",
+   "chinese": "f. 露台"
+  },
+  {
+   "spanish": "jardín  拉美",
+   "chinese": "m. 花园"
+  },
+  {
+   "spanish": "ventana  拉美",
+   "chinese": "f. 窗户"
+  },
+  {
+   "spanish": "puerta  拉美",
+   "chinese": "f. 门"
+  },
+  {
+   "spanish": "sala de estar  拉美",
+   "chinese": "客厅"
+  },
+  {
+   "spanish": "dormitorio  拉美",
+   "chinese": "m. 寝室，宿舍"
+  },
+  {
+   "spanish": "cocina  拉美",
+   "chinese": "f. 厨房"
+  },
+  {
+   "spanish": "baño  拉美",
+   "chinese": "m. 卫生间"
+  },
+  {
+   "spanish": "salón  拉美",
+   "chinese": "m. 大厅, 沙龙，展厅"
+  },
+  {
+   "spanish": "garaje  拉美",
+   "chinese": "m. 车库"
+  },
+  {
+   "spanish": "bien comunicado  拉美",
+   "chinese": "交通便利的"
+  },
+  {
+   "spanish": "mal comunicado  拉美",
+   "chinese": "交通不便的"
+  },
+  {
+   "spanish": "tener ascensor  拉美",
+   "chinese": "配有电梯"
+  },
+  {
+   "spanish": "aire acondicionado  拉美",
+   "chinese": "空调"
+  },
+  {
+   "spanish": "calefacción  拉美",
+   "chinese": "f. 暖气"
+  },
+  {
+   "spanish": "cama  拉美",
+   "chinese": "f. 床"
+  },
+  {
+   "spanish": "sofá  拉美",
+   "chinese": "m. 沙发"
+  },
+  {
+   "spanish": "sillón  拉美",
+   "chinese": "m. 大扶手椅"
+  },
+  {
+   "spanish": "lavabo  拉美",
+   "chinese": "m. 洗手间"
+  },
+  {
+   "spanish": "vídeo  拉美",
+   "chinese": "m. 视频   [拉美]  video"
+  },
+  {
+   "spanish": "carta  拉美",
+   "chinese": "f. 信"
+  },
+  {
+   "spanish": "postal  拉美",
+   "chinese": "f. 明信片"
+  },
+  {
+   "spanish": "banco  拉美",
+   "chinese": "m. 银行"
+  },
+  {
+   "spanish": "dinero  拉美",
+   "chinese": "m. 钱"
+  },
+  {
+   "spanish": "euro  拉美",
+   "chinese": "m. 欧元"
+  },
+  {
+   "spanish": "cambiar dinero  拉美",
+   "chinese": "换钱"
+  },
+  {
+   "spanish": "hospital  拉美",
+   "chinese": "m. 医院"
+  },
+  {
+   "spanish": "enfermera  拉美",
+   "chinese": "m.,f. 护士"
+  },
+  {
+   "spanish": "policía  拉美",
+   "chinese": "m.,f. 警察"
+  },
+  {
+   "spanish": "bombero  拉美",
+   "chinese": "m.,f. 消防员；Compras  购物"
+  },
+  {
+   "spanish": "supermercado  拉美",
+   "chinese": "m. 超市"
+  },
+  {
+   "spanish": "mercado  拉美",
+   "chinese": "m. 市场"
+  },
+  {
+   "spanish": "entrada  拉美",
+   "chinese": "f. 入口"
+  },
+  {
+   "spanish": "salida  拉美",
+   "chinese": "f. 出口"
+  },
+  {
+   "spanish": "información  拉美",
+   "chinese": "f. 信息"
+  },
+  {
+   "spanish": "comprador  拉美",
+   "chinese": "m.,f. 买家"
+  },
+  {
+   "spanish": "vendedor  拉美",
+   "chinese": "m.,f. 卖家"
+  },
+  {
+   "spanish": "pantalón  拉美",
+   "chinese": "m. 裤子"
+  },
+  {
+   "spanish": "vaqueros  拉美",
+   "chinese": "m.[pl.]牛仔裤  [墨西哥] pantalónes de mezclilla"
+  },
+  {
+   "spanish": "falda  拉美",
+   "chinese": "f. 半身裙"
+  },
+  {
+   "spanish": "camisa  拉美",
+   "chinese": "f. 衬衫"
+  },
+  {
+   "spanish": "jersey  拉美",
+   "chinese": "m. 针织衫，运动衫  [墨西哥] suéter"
+  },
+  {
+   "spanish": "zapatos  拉美",
+   "chinese": "m.[pl.] 鞋子"
+  },
+  {
+   "spanish": "bolso  拉美",
+   "chinese": "m. 手提包"
+  },
+  {
+   "spanish": "precio  拉美",
+   "chinese": "m. 价钱"
+  },
+  {
+   "spanish": "billete  拉美",
+   "chinese": "m. 票，钱币  在[拉美]billete表示钱币，票则用boleto"
+  },
+  {
+   "spanish": "pagar con tarjeta  拉美",
+   "chinese": "刷卡付款"
+  },
+  {
+   "spanish": "tarjeta de crédito  拉美",
+   "chinese": "信用卡；Salud e higiene 健康与卫生"
+  },
+  {
+   "spanish": "estar enfermo  拉美",
+   "chinese": "生病"
+  },
+  {
+   "spanish": "ir al hospital  拉美",
+   "chinese": "去医院"
+  },
+  {
+   "spanish": "ir al médico  拉美",
+   "chinese": "去看医生"
+  },
+  {
+   "spanish": "farmacia  拉美",
+   "chinese": "f. 药店"
+  },
+  {
+   "spanish": "jabón  拉美",
+   "chinese": "m. 肥皂"
+  },
+  {
+   "spanish": "lavarse la cara  拉美",
+   "chinese": "洗脸"
+  },
+  {
+   "spanish": "lavarse las manos  拉美",
+   "chinese": "洗手"
+  },
+  {
+   "spanish": "lavarse el pelo  拉美",
+   "chinese": "洗头"
+  },
+  {
+   "spanish": "lavarse los dientes  拉美",
+   "chinese": "刷牙"
+  },
+  {
+   "spanish": "ducharse  拉美",
+   "chinese": "prnl. 淋浴，洗澡"
+  },
+  {
+   "spanish": "bañarse  拉美",
+   "chinese": "prnl. 沐浴，洗澡；Viajes, alojamiento y transporte 旅行，住宿及交通"
+  },
+  {
+   "spanish": "carné de identidad  拉美",
+   "chinese": "身份证"
+  },
+  {
+   "spanish": "pasaporte  拉美",
+   "chinese": "m. 护照"
+  },
+  {
+   "spanish": "carné de conducir  拉美",
+   "chinese": "驾照  [墨西哥] licencia de manejo"
+  },
+  {
+   "spanish": "publicidad  拉美",
+   "chinese": "f. 广告"
+  },
+  {
+   "spanish": "maleta  拉美",
+   "chinese": "f. 行李箱"
+  },
+  {
+   "spanish": "comprar un billete  拉美",
+   "chinese": "买一张票   [拉美] comprar un boleto"
+  },
+  {
+   "spanish": "comprar un billete de ida  拉美",
+   "chinese": "买一张去程票  [拉美]comprar un boleto de ida"
+  },
+  {
+   "spanish": "comprar un billete de ida y vuelta  拉美",
+   "chinese": "买往返票  [拉美]comprar un boleto de ida y vuelta"
+  },
+  {
+   "spanish": "horario  拉美",
+   "chinese": "m. 时刻表"
+  },
+  {
+   "spanish": "ir a Madrid  拉美",
+   "chinese": "去马德里"
+  },
+  {
+   "spanish": "ir a la playa  拉美",
+   "chinese": "去海滩"
+  },
+  {
+   "spanish": "ir a la montaña  拉美",
+   "chinese": "去山上"
+  },
+  {
+   "spanish": "hotel  拉美",
+   "chinese": "m. 酒店"
+  },
+  {
+   "spanish": "camping  拉美",
+   "chinese": "m. 野营"
+  },
+  {
+   "spanish": "habitación doble  拉美",
+   "chinese": "双人间"
+  },
+  {
+   "spanish": "habitación individual  拉美",
+   "chinese": "单人间"
+  },
+  {
+   "spanish": "carretera  拉美",
+   "chinese": "f. 公路，大路"
+  },
+  {
+   "spanish": "aeropuerto  拉美",
+   "chinese": "m. 飞机场"
+  },
+  {
+   "spanish": "puerto  拉美",
+   "chinese": "m. 港口"
+  },
+  {
+   "spanish": "estación de tren  拉美",
+   "chinese": "火车站"
+  },
+  {
+   "spanish": "estación de metro  拉美",
+   "chinese": "地铁站"
+  },
+  {
+   "spanish": "parada de autobús  拉美",
+   "chinese": "公交车站"
+  },
+  {
+   "spanish": "parada de taxi  拉美",
+   "chinese": "出租车停靠站"
+  },
+  {
+   "spanish": "ir andando  拉美",
+   "chinese": "走路去"
+  },
+  {
+   "spanish": "ir en coche  拉美",
+   "chinese": "乘/开车去"
+  },
+  {
+   "spanish": "ir en taxi  拉美",
+   "chinese": "乘坐出租车去"
+  },
+  {
+   "spanish": "ir en tren  拉美",
+   "chinese": "坐火车去"
+  },
+  {
+   "spanish": "ir en metro  拉美",
+   "chinese": "坐地铁去"
+  },
+  {
+   "spanish": "ir en autobús  拉美",
+   "chinese": "坐公交车去"
+  },
+  {
+   "spanish": "ir en avión  拉美",
+   "chinese": "坐飞机去"
+  },
+  {
+   "spanish": "ir en barco  拉美",
+   "chinese": "乘船去"
+  },
+  {
+   "spanish": "conductor  拉美",
+   "chinese": "m.,f. 司机"
+  },
+  {
+   "spanish": "aparcamiento  拉美",
+   "chinese": "m. 停车场"
+  },
+  {
+   "spanish": "transporte por tierra  拉美",
+   "chinese": "陆地交通运输"
+  },
+  {
+   "spanish": "transporte marítimo y fluvial  拉美",
+   "chinese": "海洋和河流交通运输"
+  },
+  {
+   "spanish": "transporte aéreo  拉美",
+   "chinese": "航空交通运输；Economía e industria 经济与工业"
+  },
+  {
+   "spanish": "caro  拉美",
+   "chinese": "adj. 贵的"
+  },
+  {
+   "spanish": "barato  拉美",
+   "chinese": "adj. 便宜的"
+  },
+  {
+   "spanish": "capital  拉美",
+   "chinese": "f. 首都"
+  },
+  {
+   "spanish": "presidente  拉美",
+   "chinese": "m.,f. 主席，总统"
+  },
+  {
+   "spanish": "rey  拉美",
+   "chinese": "m. 国王"
+  },
+  {
+   "spanish": "reina  拉美",
+   "chinese": "f. 女王；Actividades artísticas  艺术活动"
+  },
+  {
+   "spanish": "cine  拉美",
+   "chinese": "m. 电影院"
+  },
+  {
+   "spanish": "teatro  拉美",
+   "chinese": "m. 剧院"
+  },
+  {
+   "spanish": "música  拉美",
+   "chinese": "f. 音乐"
+  },
+  {
+   "spanish": "foto  拉美",
+   "chinese": "f. 照片"
+  },
+  {
+   "spanish": "museo  拉美",
+   "chinese": "m. 博物馆"
+  },
+  {
+   "spanish": "exposición  拉美",
+   "chinese": "f. 展览"
+  },
+  {
+   "spanish": "ser interesante  拉美",
+   "chinese": "有意思"
+  },
+  {
+   "spanish": "cantante  拉美",
+   "chinese": "m.,f. 歌手"
+  },
+  {
+   "spanish": "edificio  拉美",
+   "chinese": "m. 建筑物"
+  },
+  {
+   "spanish": "monumento  拉美",
+   "chinese": "m. 纪念碑"
+  },
+  {
+   "spanish": "catedral  拉美",
+   "chinese": "f. 大教堂"
+  },
+  {
+   "spanish": "iglesia  拉美",
+   "chinese": "f. 教堂"
+  },
+  {
+   "spanish": "actor  拉美",
+   "chinese": "m. 男演员"
+  },
+  {
+   "spanish": "actriz  拉美",
+   "chinese": "f. 女演员；Religión  宗教"
+  },
+  {
+   "spanish": "religión  拉美",
+   "chinese": "f. 宗教"
+  },
+  {
+   "spanish": "cristiano  拉美",
+   "chinese": "adj.  基督教的；m.,f.  基督教教徒"
+  },
+  {
+   "spanish": "judío  拉美",
+   "chinese": "adj.  犹太人的；m.,f. 犹太人 犹太教徒"
+  },
+  {
+   "spanish": "musulmán  拉美",
+   "chinese": "adj.  穆斯林的；m.,f.  穆斯林"
+  },
+  {
+   "spanish": "budista  拉美",
+   "chinese": "adj.  佛教的；m.,f.  佛教徒"
+  },
+  {
+   "spanish": "ir a la iglesia  拉美",
+   "chinese": "去教堂"
+  },
+  {
+   "spanish": "ir a la mezquita  拉美",
+   "chinese": "去清真寺"
+  },
+  {
+   "spanish": "ir a la sinagoga  拉美",
+   "chinese": "去犹太教堂；Geografía y naturaleza  地理与自然"
+  },
+  {
+   "spanish": "sol  拉美",
+   "chinese": "m. 太阳"
+  },
+  {
+   "spanish": "lugar  拉美",
+   "chinese": "m. 地方"
+  },
+  {
+   "spanish": "norte  拉美",
+   "chinese": "m. 北部"
+  },
+  {
+   "spanish": "sur  拉美",
+   "chinese": "m. 南部"
+  },
+  {
+   "spanish": "este  拉美",
+   "chinese": "m. 东部"
+  },
+  {
+   "spanish": "oeste  拉美",
+   "chinese": "m. 西部"
+  },
+  {
+   "spanish": "plaza  拉美",
+   "chinese": "f. 广场"
+  },
+  {
+   "spanish": "centro comercial  拉美",
+   "chinese": "购物中心"
+  },
+  {
+   "spanish": "colegio  拉美",
+   "chinese": "m. 学院，学校"
+  },
+  {
+   "spanish": "escuela  拉美",
+   "chinese": "f. 学校"
+  },
+  {
+   "spanish": "primavera  拉美",
+   "chinese": "f. 春天"
+  },
+  {
+   "spanish": "verano  拉美",
+   "chinese": "m. 夏天"
+  },
+  {
+   "spanish": "otoño  拉美",
+   "chinese": "m. 秋天"
+  },
+  {
+   "spanish": "invierno  拉美",
+   "chinese": "m. 冬天"
+  },
+  {
+   "spanish": "llover  拉美",
+   "chinese": "impers.下雨"
+  },
+  {
+   "spanish": "nevar  拉美",
+   "chinese": "impers.下雪"
+  },
+  {
+   "spanish": "hace frío  拉美",
+   "chinese": "天气寒冷"
+  },
+  {
+   "spanish": "hace calor  拉美",
+   "chinese": "天气炎热"
+  },
+  {
+   "spanish": "hace sol  拉美",
+   "chinese": "阳光明媚"
+  },
+  {
+   "spanish": "hace viento  拉美",
+   "chinese": "刮风"
+  },
+  {
+   "spanish": "hace buen tiempo  拉美",
+   "chinese": "好天气"
+  },
+  {
+   "spanish": "hace mal tiempo  拉美",
+   "chinese": "天气不好"
+  },
+  {
+   "spanish": "animal  拉美",
+   "chinese": "m. 动物"
+  },
+  {
+   "spanish": "planta  拉美",
+   "chinese": "f. 植物"
+  },
+  {
+   "spanish": "flor  拉美",
+   "chinese": "f. 花"
+  },
+  {
+   "spanish": "árbol  拉美",
+   "chinese": "m. 树"
+  }
+ ],
+ "A2": [
+  {
+   "spanish": "cabeza  拉美",
+   "chinese": "f. 头部"
+  },
+  {
+   "spanish": "cara  拉美",
+   "chinese": "f. 脸，面"
+  },
+  {
+   "spanish": "brazo  拉美",
+   "chinese": "m. 手臂"
+  },
+  {
+   "spanish": "mano  拉美",
+   "chinese": "f. 手"
+  },
+  {
+   "spanish": "dedo  拉美",
+   "chinese": "m. 手指，脚趾"
+  },
+  {
+   "spanish": "pierna  拉美",
+   "chinese": "f. 腿"
+  },
+  {
+   "spanish": "pie  拉美",
+   "chinese": "m. 脚"
+  },
+  {
+   "spanish": "oído  拉美",
+   "chinese": "m. 听觉，耳"
+  },
+  {
+   "spanish": "muela  拉美",
+   "chinese": "f. 臼齿"
+  },
+  {
+   "spanish": "garganta  拉美",
+   "chinese": "f. 喉咙，嗓子"
+  },
+  {
+   "spanish": "estómago  拉美",
+   "chinese": "m. 胃"
+  },
+  {
+   "spanish": "espalda  拉美",
+   "chinese": "f. 背部"
+  },
+  {
+   "spanish": "calvo  拉美",
+   "chinese": "adj. 秃头的"
+  },
+  {
+   "spanish": "pelo liso  拉美",
+   "chinese": "直发"
+  },
+  {
+   "spanish": "pelo rizado  拉美",
+   "chinese": "卷发"
+  },
+  {
+   "spanish": "pelo largo  拉美",
+   "chinese": "长发"
+  },
+  {
+   "spanish": "pelo corto  拉美",
+   "chinese": "短发"
+  },
+  {
+   "spanish": "llevar una gorra  拉美",
+   "chinese": "戴一顶帽子"
+  },
+  {
+   "spanish": "llevar un sombrero  拉美",
+   "chinese": "戴一顶太阳帽"
+  },
+  {
+   "spanish": "pañuelo  拉美",
+   "chinese": "m. 手帕，头巾，方巾"
+  },
+  {
+   "spanish": "lavarse  拉美",
+   "chinese": "prnl. 洗脸"
+  },
+  {
+   "spanish": "peinarse  拉美",
+   "chinese": "prnl. 梳头"
+  },
+  {
+   "spanish": "afeitarse  拉美",
+   "chinese": "prnl. 刮胡子"
+  },
+  {
+   "spanish": "andar  拉美",
+   "chinese": "intr. 行走"
+  },
+  {
+   "spanish": "pasear  拉美",
+   "chinese": "intr. 散步，闲逛"
+  },
+  {
+   "spanish": "correr  拉美",
+   "chinese": "intr. 跑步"
+  },
+  {
+   "spanish": "subir  拉美",
+   "chinese": "intr. 爬上，登上，升高；tr. 举起"
+  },
+  {
+   "spanish": "bajar  拉美",
+   "chinese": "intr. 下降 tr. 降下，落下"
+  },
+  {
+   "spanish": "sentarse  拉美",
+   "chinese": "prnl. 坐下"
+  },
+  {
+   "spanish": "ver  拉美",
+   "chinese": "tr. 看见, 看到"
+  },
+  {
+   "spanish": "oír  拉美",
+   "chinese": "tr. 听到，听见"
+  },
+  {
+   "spanish": "coger  拉美",
+   "chinese": "tr. 拿，抓，搭乘（车辆)；注意，这个词不要在拉美用哦~"
+  },
+  {
+   "spanish": "sexo  拉美",
+   "chinese": "m. 性别，性"
+  },
+  {
+   "spanish": "nacer  拉美",
+   "chinese": "intr. 出生"
+  },
+  {
+   "spanish": "crecer  拉美",
+   "chinese": "intr. 长大，增长"
+  },
+  {
+   "spanish": "tener un hijo  拉美",
+   "chinese": "有一个孩子"
+  },
+  {
+   "spanish": "morir  拉美",
+   "chinese": "intr. 死亡"
+  },
+  {
+   "spanish": "carácter  拉美",
+   "chinese": "m. 性格,特点"
+  },
+  {
+   "spanish": "abierto  拉美",
+   "chinese": "adj. 开放的，爽朗的"
+  },
+  {
+   "spanish": "reservado  拉美",
+   "chinese": "adj. 思想感情不外露的， 谨慎的"
+  },
+  {
+   "spanish": "tranquilo  拉美",
+   "chinese": "adj. 平静的， 平和的"
+  },
+  {
+   "spanish": "nervioso  拉美",
+   "chinese": "adj. 紧张的，不安的"
+  },
+  {
+   "spanish": "generoso  拉美",
+   "chinese": "adj. 慷慨的，大方的"
+  },
+  {
+   "spanish": "egoísta  拉美",
+   "chinese": "adj. 自私自利的"
+  },
+  {
+   "spanish": "amable  拉美",
+   "chinese": "adj. 和蔼可亲的"
+  },
+  {
+   "spanish": "agradable  拉美",
+   "chinese": "adj. 令人愉悦的, 使人感到愜意的"
+  },
+  {
+   "spanish": "tolerante  拉美",
+   "chinese": "adj. 宽容的"
+  },
+  {
+   "spanish": "triste  拉美",
+   "chinese": "adj. 伤心的"
+  },
+  {
+   "spanish": "contento  拉美",
+   "chinese": "adj. 开心的，高兴的"
+  },
+  {
+   "spanish": "enfadado  拉美",
+   "chinese": "adj. 生气的，愤怒的"
+  },
+  {
+   "spanish": "preocupado  拉美",
+   "chinese": "adj. 担心的"
+  },
+  {
+   "spanish": "gustar  拉美",
+   "chinese": "intr. 使喜欢"
+  },
+  {
+   "spanish": "encantar  拉美",
+   "chinese": "intr. 使着迷，使大爱"
+  },
+  {
+   "spanish": "odiar  拉美",
+   "chinese": "tr. 厌恶，恨"
+  },
+  {
+   "spanish": "tener miedo  拉美",
+   "chinese": "（感到）害怕"
+  },
+  {
+   "spanish": "tener calor  拉美",
+   "chinese": "（感到）热"
+  },
+  {
+   "spanish": "tener frío  拉美",
+   "chinese": "（感到）冷"
+  },
+  {
+   "spanish": "tener sed  拉美",
+   "chinese": "（感到）口渴"
+  },
+  {
+   "spanish": "tener hambre  拉美",
+   "chinese": "（感到）饥饿"
+  },
+  {
+   "spanish": "tener dolor  拉美",
+   "chinese": "（感到）疼痛"
+  },
+  {
+   "spanish": "estar cansado  拉美",
+   "chinese": "疲惫"
+  },
+  {
+   "spanish": "me duele la cabeza  拉美",
+   "chinese": "我头疼"
+  },
+  {
+   "spanish": "me duele el cuello  拉美",
+   "chinese": "我脖子疼"
+  },
+  {
+   "spanish": "mirar  拉美",
+   "chinese": "tr. 看，望"
+  },
+  {
+   "spanish": "escuchar  拉美",
+   "chinese": "tr. 听，倾听"
+  },
+  {
+   "spanish": "apellidarse  拉美",
+   "chinese": "prnl. 姓"
+  },
+  {
+   "spanish": "presentar(se)  拉美",
+   "chinese": "prnl. 自我介绍，出现，到场；tr. 出示，表现，介绍"
+  },
+  {
+   "spanish": "prefijo  拉美",
+   "chinese": "m. 电话前的区号，【语法】前缀"
+  },
+  {
+   "spanish": "extensión  拉美",
+   "chinese": "f. 电话分机号，【语法】引申"
+  },
+  {
+   "spanish": "tener la nacionalidad  拉美",
+   "chinese": "拥有国籍"
+  },
+  {
+   "spanish": "pedir la nacionalidad  拉美",
+   "chinese": "申请国籍"
+  },
+  {
+   "spanish": "bebé  拉美",
+   "chinese": "m. 婴儿"
+  },
+  {
+   "spanish": "adolescente  拉美",
+   "chinese": "adj. -s.少年的；少年"
+  },
+  {
+   "spanish": "persona mayor  拉美",
+   "chinese": "老年人"
+  },
+  {
+   "spanish": "casarse  拉美",
+   "chinese": "prnl. 结婚"
+  },
+  {
+   "spanish": "separarse  拉美",
+   "chinese": "prnl. 分开，（夫妻）分居"
+  },
+  {
+   "spanish": "divorciarse  拉美",
+   "chinese": "prnl. 离婚"
+  },
+  {
+   "spanish": "tarjeta de estudiante  拉美",
+   "chinese": "学生证"
+  },
+  {
+   "spanish": "tarjeta de la biblioteca  拉美",
+   "chinese": "图书证"
+  },
+  {
+   "spanish": "paraguas  拉美",
+   "chinese": "m. 雨伞"
+  },
+  {
+   "spanish": "agenda  拉美",
+   "chinese": "f. 记事本，日程"
+  },
+  {
+   "spanish": "tarjeta de visita  拉美",
+   "chinese": ""
+  },
+  {
+   "spanish": "tarjeta de negocio  拉美",
+   "chinese": "名片"
+  },
+  {
+   "spanish": "maletín  拉美",
+   "chinese": "m. 小手提箱"
+  },
+  {
+   "spanish": "papá  拉美",
+   "chinese": "m. 爸爸"
+  },
+  {
+   "spanish": "mamá  拉美",
+   "chinese": "f. 妈妈"
+  },
+  {
+   "spanish": "hijo único  拉美",
+   "chinese": "独生子女"
+  },
+  {
+   "spanish": "gemelo  拉美",
+   "chinese": "adj. 孪生的，双的 m.f. 孪生儿"
+  },
+  {
+   "spanish": "ex marido  拉美",
+   "chinese": "前夫"
+  },
+  {
+   "spanish": "ex mujer  拉美",
+   "chinese": "前妻"
+  },
+  {
+   "spanish": "vivir juntos  拉美",
+   "chinese": "住在一起，同居"
+  },
+  {
+   "spanish": "vivir con la pareja  拉美",
+   "chinese": "和伴侣住在一起"
+  },
+  {
+   "spanish": "vecino  拉美",
+   "chinese": "m. ,f. 邻居"
+  },
+  {
+   "spanish": "socio  拉美",
+   "chinese": "m. ,f. 合伙人"
+  },
+  {
+   "spanish": "compañero de clase  拉美",
+   "chinese": "同学"
+  },
+  {
+   "spanish": "compañero de trabajo  拉美",
+   "chinese": "同事"
+  },
+  {
+   "spanish": "compañero de piso  拉美",
+   "chinese": "室友"
+  },
+  {
+   "spanish": "reunión  拉美",
+   "chinese": "f. 会议"
+  },
+  {
+   "spanish": "cita  拉美",
+   "chinese": "f. 约会，预约"
+  },
+  {
+   "spanish": "visitar  拉美",
+   "chinese": "tr. 拜访，参观"
+  },
+  {
+   "spanish": "invitar  拉美",
+   "chinese": "tr. 邀请"
+  },
+  {
+   "spanish": "fiesta de cumpleaños  拉美",
+   "chinese": "生日派对"
+  },
+  {
+   "spanish": "fiesta de fin de curso  拉美",
+   "chinese": "结课派对"
+  },
+  {
+   "spanish": "regalo  拉美",
+   "chinese": "m. 礼物"
+  },
+  {
+   "spanish": "regalar  拉美",
+   "chinese": "tr. 赠送"
+  },
+  {
+   "spanish": "hacer una fiesta  拉美",
+   "chinese": "举办一个聚会"
+  },
+  {
+   "spanish": "ser vegetariano  拉美",
+   "chinese": "是素食主义者"
+  },
+  {
+   "spanish": "bebida con alcohol  拉美",
+   "chinese": "含酒精饮料"
+  },
+  {
+   "spanish": "con hielo  拉美",
+   "chinese": "加冰"
+  },
+  {
+   "spanish": "sin hielo  拉美",
+   "chinese": "去冰"
+  },
+  {
+   "spanish": "zumo de naranja  拉美",
+   "chinese": "橙汁 [拉美]: jugo de naranja"
+  },
+  {
+   "spanish": "zumo de tomate  拉美",
+   "chinese": "番茄汁 [拉美]: jugo de tomate"
+  },
+  {
+   "spanish": "infusión  拉美",
+   "chinese": "f. 用热水冲煮的饮品，比如茶"
+  },
+  {
+   "spanish": "ron  拉美",
+   "chinese": "m. 朗姆酒"
+  },
+  {
+   "spanish": "ginebra  拉美",
+   "chinese": "f. 杜松子酒"
+  },
+  {
+   "spanish": "cava  拉美",
+   "chinese": "f. 卡瓦酒"
+  },
+  {
+   "spanish": "champán  拉美",
+   "chinese": "m. 香槟"
+  },
+  {
+   "spanish": "botella  拉美",
+   "chinese": "f. 瓶子"
+  },
+  {
+   "spanish": "lata  拉美",
+   "chinese": "f. 罐头"
+  },
+  {
+   "spanish": "tomar algo  拉美",
+   "chinese": "喝点儿什么"
+  },
+  {
+   "spanish": "lechuga  拉美",
+   "chinese": "f. 生菜"
+  },
+  {
+   "spanish": "tomate  拉美",
+   "chinese": "m. 西红柿"
+  },
+  {
+   "spanish": "zanahoria  拉美",
+   "chinese": "f. 胡萝卜"
+  },
+  {
+   "spanish": "plátano  拉美",
+   "chinese": "m. 香蕉"
+  },
+  {
+   "spanish": "manzana  拉美",
+   "chinese": "f. 苹果"
+  },
+  {
+   "spanish": "naranja  拉美",
+   "chinese": "f. 橙子"
+  },
+  {
+   "spanish": "patata  拉美",
+   "chinese": "f. 土豆 [拉美]: papa"
+  },
+  {
+   "spanish": "ajo  拉美",
+   "chinese": "m. 大蒜"
+  },
+  {
+   "spanish": "cebolla  拉美",
+   "chinese": "f. 洋葱"
+  },
+  {
+   "spanish": "perejil  拉美",
+   "chinese": "m. 欧芹"
+  },
+  {
+   "spanish": "queso  拉美",
+   "chinese": "m. 奶酪"
+  },
+  {
+   "spanish": "yogur  拉美",
+   "chinese": "m. 酸奶"
+  },
+  {
+   "spanish": "mantequilla  拉美",
+   "chinese": "f. 黄油"
+  },
+  {
+   "spanish": "mayonesa  拉美",
+   "chinese": "f. 蛋黄酱"
+  },
+  {
+   "spanish": "salsa  拉美",
+   "chinese": "f. 调味汁，酱汁"
+  },
+  {
+   "spanish": "merluza  拉美",
+   "chinese": "f. 一种无须鳕"
+  },
+  {
+   "spanish": "salmón  拉美",
+   "chinese": "m. 三文鱼"
+  },
+  {
+   "spanish": "sardina  拉美",
+   "chinese": "f. 沙丁鱼"
+  },
+  {
+   "spanish": "atún  拉美",
+   "chinese": "m. 金枪鱼"
+  },
+  {
+   "spanish": "gamba  拉美",
+   "chinese": "f. 虾"
+  },
+  {
+   "spanish": "pasta  拉美",
+   "chinese": "f. 糊状物，通心粉，面"
+  },
+  {
+   "spanish": "arroz  拉美",
+   "chinese": "m. 米饭"
+  },
+  {
+   "spanish": "chocolate  拉美",
+   "chinese": "m. 巧克力"
+  },
+  {
+   "spanish": "galleta  拉美",
+   "chinese": "f. 饼干"
+  },
+  {
+   "spanish": "cereal  拉美",
+   "chinese": "m. 谷物"
+  },
+  {
+   "spanish": "azúcar  拉美",
+   "chinese": "m. o f. 糖"
+  },
+  {
+   "spanish": "sal  拉美",
+   "chinese": "f. 盐"
+  },
+  {
+   "spanish": "pimienta  拉美",
+   "chinese": "f. 胡椒"
+  },
+  {
+   "spanish": "aceite  拉美",
+   "chinese": "m. 油, 食油"
+  },
+  {
+   "spanish": "carne de ternera  拉美",
+   "chinese": "牛肉；DELE A2词汇二（151-250）；Video preview"
+  },
+  {
+   "spanish": "carne de cerdo  拉美",
+   "chinese": "猪肉"
+  },
+  {
+   "spanish": "carne de cordero  拉美",
+   "chinese": "羊肉"
+  },
+  {
+   "spanish": "carne de pollo  拉美",
+   "chinese": "鸡肉"
+  },
+  {
+   "spanish": "filete  拉美",
+   "chinese": "m. 肉排"
+  },
+  {
+   "spanish": "jamón serrano  拉美",
+   "chinese": "塞拉诺火腿（白猪火腿）"
+  },
+  {
+   "spanish": "helado de chocolate  拉美",
+   "chinese": "巧克力冰淇淋"
+  },
+  {
+   "spanish": "helado de vainilla  拉美",
+   "chinese": "香草冰淇淋"
+  },
+  {
+   "spanish": "tarta de manzana  拉美",
+   "chinese": "苹果派"
+  },
+  {
+   "spanish": "receta  拉美",
+   "chinese": "f. 处方，菜谱"
+  },
+  {
+   "spanish": "ingrediente  拉美",
+   "chinese": "m. 成分，配料"
+  },
+  {
+   "spanish": "cocinar  拉美",
+   "chinese": "tr. 烹调，做饭"
+  },
+  {
+   "spanish": "llevar salsa  拉美",
+   "chinese": "配（含）酱汁，酱料"
+  },
+  {
+   "spanish": "llevar arroz  拉美",
+   "chinese": "配（含）米饭"
+  },
+  {
+   "spanish": "filete con patatas  拉美",
+   "chinese": ""
+  },
+  {
+   "spanish": "filete con papas  拉美",
+   "chinese": "肉排配薯条"
+  },
+  {
+   "spanish": "plato combinado  拉美",
+   "chinese": "套餐，组合膳食"
+  },
+  {
+   "spanish": "tapa  拉美",
+   "chinese": "f. 盖子 pl. 小吃"
+  },
+  {
+   "spanish": "aperitivo  拉美",
+   "chinese": "m. 开胃物, 开胃酒"
+  },
+  {
+   "spanish": "rico  拉美",
+   "chinese": "adj. 好吃的，有钱的"
+  },
+  {
+   "spanish": "plato  拉美",
+   "chinese": "m. 盘子，菜"
+  },
+  {
+   "spanish": "vaso  拉美",
+   "chinese": "m. 杯子（无手柄）"
+  },
+  {
+   "spanish": "taza  拉美",
+   "chinese": "f. 杯子（有手柄）"
+  },
+  {
+   "spanish": "servilleta  拉美",
+   "chinese": "f. 餐巾纸"
+  },
+  {
+   "spanish": "cafetería  拉美",
+   "chinese": "f. 咖啡馆"
+  },
+  {
+   "spanish": "pizzería  拉美",
+   "chinese": "f. 比萨店"
+  },
+  {
+   "spanish": "restaurante chino  拉美",
+   "chinese": "中餐厅"
+  },
+  {
+   "spanish": "restaurante italiano  拉美",
+   "chinese": "意大利餐厅"
+  },
+  {
+   "spanish": "restaurante vegetariano  拉美",
+   "chinese": "素食餐厅"
+  },
+  {
+   "spanish": "comida china  拉美",
+   "chinese": "中餐"
+  },
+  {
+   "spanish": "comida japonesa  拉美",
+   "chinese": "日料"
+  },
+  {
+   "spanish": "comida rápida  拉美",
+   "chinese": "快餐"
+  },
+  {
+   "spanish": "cocinero  拉美",
+   "chinese": "m. ,f. 厨师"
+  },
+  {
+   "spanish": "chef  拉美",
+   "chinese": "m. ,f. 主厨"
+  },
+  {
+   "spanish": "reservar una mesa  拉美",
+   "chinese": "预定一张桌子"
+  },
+  {
+   "spanish": "pedir una sopa  拉美",
+   "chinese": "点一碗汤"
+  },
+  {
+   "spanish": "plato del día  拉美",
+   "chinese": "当日特色菜（或是当天有折扣）"
+  },
+  {
+   "spanish": "traer la carta/el menú  拉美",
+   "chinese": "把菜单拿来"
+  },
+  {
+   "spanish": "la cuenta  拉美",
+   "chinese": "买单（用于结账时）"
+  },
+  {
+   "spanish": "colegio  拉美",
+   "chinese": "m. 学校，中学"
+  },
+  {
+   "spanish": "academia/escuela de idiomas  拉美",
+   "chinese": "语言学校"
+  },
+  {
+   "spanish": "biblioteca municipal  拉美",
+   "chinese": "市政图书馆"
+  },
+  {
+   "spanish": "biblioteca pública  拉美",
+   "chinese": "公共图书馆"
+  },
+  {
+   "spanish": "alumno de la escuela  拉美",
+   "chinese": "学校学生"
+  },
+  {
+   "spanish": "programa del curso  拉美",
+   "chinese": "课程大纲"
+  },
+  {
+   "spanish": "pagar la matrícula  拉美",
+   "chinese": "交注册费"
+  },
+  {
+   "spanish": "dar clases  拉美",
+   "chinese": "授课"
+  },
+  {
+   "spanish": "diploma  拉美",
+   "chinese": "m. 证书，文凭"
+  },
+  {
+   "spanish": "certificado  拉美",
+   "chinese": "m. 证明，证书"
+  },
+  {
+   "spanish": "aprobar  拉美",
+   "chinese": "tr. 通过（考试），赞成"
+  },
+  {
+   "spanish": "suspender  拉美",
+   "chinese": "tr. 考试不合格，中止"
+  },
+  {
+   "spanish": "matemáticas  拉美",
+   "chinese": "f. 数学"
+  },
+  {
+   "spanish": "historia  拉美",
+   "chinese": "f. 历史"
+  },
+  {
+   "spanish": "medicina  拉美",
+   "chinese": "f. 医学，药品"
+  },
+  {
+   "spanish": "derecho  拉美",
+   "chinese": "m. 法律"
+  },
+  {
+   "spanish": "preguntar  拉美",
+   "chinese": "tr. 问"
+  },
+  {
+   "spanish": "contestar  拉美",
+   "chinese": "tr. -intr. 回答"
+  },
+  {
+   "spanish": "completar  拉美",
+   "chinese": "tr. 完成，结束，使完满"
+  },
+  {
+   "spanish": "dibujar  拉美",
+   "chinese": "tr. 绘画"
+  },
+  {
+   "spanish": "jugar  拉美",
+   "chinese": "intr. 玩耍 tr. 玩（棋牌）"
+  },
+  {
+   "spanish": "adivinar  拉美",
+   "chinese": "tr. 猜测"
+  },
+  {
+   "spanish": "hacer una redacción  拉美",
+   "chinese": "写篇文章/作文"
+  },
+  {
+   "spanish": "hacer un dibujo  拉美",
+   "chinese": "画一幅画"
+  },
+  {
+   "spanish": "aprender una regla  拉美",
+   "chinese": "学习（掌握）一项规则"
+  },
+  {
+   "spanish": "memorizar una fórmula  拉美",
+   "chinese": "背一个公式"
+  },
+  {
+   "spanish": "repasar un ejercicio  拉美",
+   "chinese": "复习一道练习题"
+  },
+  {
+   "spanish": "repasar una unidad  拉美",
+   "chinese": "复习一单元"
+  },
+  {
+   "spanish": "repasar una lección  拉美",
+   "chinese": "复习一课"
+  },
+  {
+   "spanish": "cometer un error  拉美",
+   "chinese": "犯一个错误"
+  },
+  {
+   "spanish": "tener buena letra  拉美",
+   "chinese": "字很漂亮"
+  },
+  {
+   "spanish": "tener mala letra  拉美",
+   "chinese": "字很丑"
+  },
+  {
+   "spanish": "cuaderno  拉美",
+   "chinese": "m. 本，练习本"
+  },
+  {
+   "spanish": "hoja  拉美",
+   "chinese": "f. 纸张，叶"
+  },
+  {
+   "spanish": "regla  拉美",
+   "chinese": "f. 尺子，规则"
+  },
+  {
+   "spanish": "impresora  拉美",
+   "chinese": "f. 打印机"
+  },
+  {
+   "spanish": "fotocopiadora  拉美",
+   "chinese": "f. 复印机"
+  },
+  {
+   "spanish": "dependiente  拉美",
+   "chinese": "【西】m. 店员， 售货员"
+  },
+  {
+   "spanish": "funcionario  拉美",
+   "chinese": "m. ,f. 公职人员，公务员"
+  },
+  {
+   "spanish": "comercial  拉美",
+   "chinese": "adj. 商业的，贸易的"
+  },
+  {
+   "spanish": "empresario  拉美",
+   "chinese": "m. ,f. 企业家"
+  },
+  {
+   "spanish": "trabajar/hacer de canguro  拉美",
+   "chinese": "【西】照看小孩"
+  },
+  {
+   "spanish": "tener una tienda  拉美",
+   "chinese": "有一家商店"
+  },
+  {
+   "spanish": "tener un negocio  拉美",
+   "chinese": "有一宗生意"
+  },
+  {
+   "spanish": "tener una peluquería  拉美",
+   "chinese": "有一家理发店"
+  },
+  {
+   "spanish": "despacho  拉美",
+   "chinese": "m. 办公室"
+  },
+  {
+   "spanish": "negocio  拉美",
+   "chinese": "m. 生意，买卖"
+  },
+  {
+   "spanish": "fábrica  拉美",
+   "chinese": "f. 工厂"
+  },
+  {
+   "spanish": "multinacional  拉美",
+   "chinese": "adj. 多国的"
+  },
+  {
+   "spanish": "panadería  拉美",
+   "chinese": "f. 面包店"
+  },
+  {
+   "spanish": "librería  拉美",
+   "chinese": "f. 书店"
+  },
+  {
+   "spanish": "mesa de despacho  拉美",
+   "chinese": "办公桌"
+  },
+  {
+   "spanish": "traje  拉美",
+   "chinese": "m. （三件一套）西装，衣服"
+  },
+  {
+   "spanish": "corbata  拉美",
+   "chinese": "f. 领带"
+  },
+  {
+   "spanish": "uniforme  拉美",
+   "chinese": "m. 制服"
+  },
+  {
+   "spanish": "cliente  拉美",
+   "chinese": "m. ,f. 顾客"
+  },
+  {
+   "spanish": "comprar un producto  拉美",
+   "chinese": "买一个产品"
+  },
+  {
+   "spanish": "tener una reunión  拉美",
+   "chinese": "有一个会议"
+  },
+  {
+   "spanish": "hacer fotocopias  拉美",
+   "chinese": "复印"
+  },
+  {
+   "spanish": "factura  拉美",
+   "chinese": "f. 发票"
+  },
+  {
+   "spanish": "contestar al/el teléfono  拉美",
+   "chinese": "接电话"
+  },
+  {
+   "spanish": "hablar con clientes  拉美",
+   "chinese": "和顾客交谈"
+  },
+  {
+   "spanish": "hablar con el jefe  拉美",
+   "chinese": "和领导交谈；DELE A2词汇三（251-350）；Video preview"
+  },
+  {
+   "spanish": "enviar un fax  拉美",
+   "chinese": "发一份传真"
+  },
+  {
+   "spanish": "enviar un correo electrónico  拉美",
+   "chinese": "发一封电子邮件"
+  },
+  {
+   "spanish": "tener una entrevista de trabajo  拉美",
+   "chinese": "有一个工作面试"
+  },
+  {
+   "spanish": "enviar el currículum  拉美",
+   "chinese": "发简历"
+  },
+  {
+   "spanish": "ganar dinero  拉美",
+   "chinese": "挣钱"
+  },
+  {
+   "spanish": "estar jubilado  拉美",
+   "chinese": "退休"
+  },
+  {
+   "spanish": "tiempo libre  拉美",
+   "chinese": "闲暇时间"
+  },
+  {
+   "spanish": "afición  拉美",
+   "chinese": "f. 热爱，热衷"
+  },
+  {
+   "spanish": "hobby  拉美",
+   "chinese": "m. 业余爱好"
+  },
+  {
+   "spanish": "parque de atracciones  拉美",
+   "chinese": "游乐园"
+  },
+  {
+   "spanish": "quedar  拉美",
+   "chinese": "intr. 停留， 留在"
+  },
+  {
+   "spanish": "ir de paseo  拉美",
+   "chinese": "去散步"
+  },
+  {
+   "spanish": "ir de compras  拉美",
+   "chinese": "去购物，去买东西"
+  },
+  {
+   "spanish": "ir de excursión  拉美",
+   "chinese": "去郊游"
+  },
+  {
+   "spanish": "caminar  拉美",
+   "chinese": "tr. 行走"
+  },
+  {
+   "spanish": "tener una cita  拉美",
+   "chinese": "有一个预约/约会"
+  },
+  {
+   "spanish": "salir con amigos  拉美",
+   "chinese": "和朋友出去玩"
+  },
+  {
+   "spanish": "tomar un café  拉美",
+   "chinese": "喝杯咖啡"
+  },
+  {
+   "spanish": "tomar una copa de vino  拉美",
+   "chinese": "喝杯葡萄酒"
+  },
+  {
+   "spanish": "entrada  拉美",
+   "chinese": "f. 入口，入场券，门票"
+  },
+  {
+   "spanish": "invitación  拉美",
+   "chinese": "f. 邀请，邀请函"
+  },
+  {
+   "spanish": "programa  拉美",
+   "chinese": "m. 节目，程序，纲要，方案"
+  },
+  {
+   "spanish": "exposición  拉美",
+   "chinese": "f. 展览"
+  },
+  {
+   "spanish": "obra de teatro  拉美",
+   "chinese": "戏剧"
+  },
+  {
+   "spanish": "ópera  拉美",
+   "chinese": "f. 歌剧"
+  },
+  {
+   "spanish": "musical  拉美",
+   "chinese": "adj. 音乐的，悦耳的；m. 音乐剧"
+  },
+  {
+   "spanish": "concierto de música clásica  拉美",
+   "chinese": "古典音乐会"
+  },
+  {
+   "spanish": "comprar una entrada  拉美",
+   "chinese": "买一张门票"
+  },
+  {
+   "spanish": "reservar una entrada  拉美",
+   "chinese": "预定一张门票"
+  },
+  {
+   "spanish": "gimnasio  拉美",
+   "chinese": "m. 健身房"
+  },
+  {
+   "spanish": "piscina  拉美",
+   "chinese": "f. 游泳池"
+  },
+  {
+   "spanish": "practicar un deporte  拉美",
+   "chinese": "练习一项运动"
+  },
+  {
+   "spanish": "montar en bicicleta  拉美",
+   "chinese": "骑自行车"
+  },
+  {
+   "spanish": "andar en bicicleta  拉美",
+   "chinese": ""
+  },
+  {
+   "spanish": "hacer senderismo  拉美",
+   "chinese": "山地行走"
+  },
+  {
+   "spanish": "jugar a las cartas  拉美",
+   "chinese": "打纸牌"
+  },
+  {
+   "spanish": "jugar al parchís  拉美",
+   "chinese": "玩西班牙十字戏"
+  },
+  {
+   "spanish": "jugar a la oca  拉美",
+   "chinese": "玩赛鹅图"
+  },
+  {
+   "spanish": "jugar al ajedrez  拉美",
+   "chinese": "下国际象棋"
+  },
+  {
+   "spanish": "recibir una postal  拉美",
+   "chinese": "收到一张明信片"
+  },
+  {
+   "spanish": "responder a una llamada  拉美",
+   "chinese": "接个电话"
+  },
+  {
+   "spanish": "responder una llamada  拉美",
+   "chinese": ""
+  },
+  {
+   "spanish": "dejar una nota  拉美",
+   "chinese": "留张便条"
+  },
+  {
+   "spanish": "ir a Correos  拉美",
+   "chinese": "去邮局"
+  },
+  {
+   "spanish": "tarjeta telefónica  拉美",
+   "chinese": "电话卡"
+  },
+  {
+   "spanish": "cabina  拉美",
+   "chinese": "f. 电话亭"
+  },
+  {
+   "spanish": "llamar por teléfono  拉美",
+   "chinese": "打电话"
+  },
+  {
+   "spanish": "dejar un mensaje  拉美",
+   "chinese": "留言"
+  },
+  {
+   "spanish": "entrevista  拉美",
+   "chinese": "f. 采访，会见"
+  },
+  {
+   "spanish": "periodista  拉美",
+   "chinese": "m.,f. 记者"
+  },
+  {
+   "spanish": "anuncio  拉美",
+   "chinese": "m. 通知，广告"
+  },
+  {
+   "spanish": "publicidad  拉美",
+   "chinese": "f. 广告"
+  },
+  {
+   "spanish": "presentador  拉美",
+   "chinese": "m.,f. 主持人，展示者"
+  },
+  {
+   "spanish": "dirección de Internet  拉美",
+   "chinese": "网址"
+  },
+  {
+   "spanish": "foro  拉美",
+   "chinese": "m. 论坛"
+  },
+  {
+   "spanish": "virus  拉美",
+   "chinese": "m. 病毒"
+  },
+  {
+   "spanish": "buscar piso/departamento  拉美",
+   "chinese": "找房子"
+  },
+  {
+   "spanish": "compartir piso/departamento  拉美",
+   "chinese": "合租房子"
+  },
+  {
+   "spanish": "cambiarse de casa  拉美",
+   "chinese": "搬家"
+  },
+  {
+   "spanish": "edificio  拉美",
+   "chinese": "m. 建筑物，楼房，大厦"
+  },
+  {
+   "spanish": "chalé  拉美",
+   "chinese": "m. 别墅"
+  },
+  {
+   "spanish": "piso de estudiantes  拉美",
+   "chinese": "学生公寓"
+  },
+  {
+   "spanish": "pasillo  拉美",
+   "chinese": "m. 走廊，楼道，过道"
+  },
+  {
+   "spanish": "suelo  拉美",
+   "chinese": "m. 地面"
+  },
+  {
+   "spanish": "techo  拉美",
+   "chinese": "m. 天花板，屋顶"
+  },
+  {
+   "spanish": "pared  拉美",
+   "chinese": "f. 墙，壁"
+  },
+  {
+   "spanish": "propietario  拉美",
+   "chinese": "adj. 有所有权的；m.,f. 所有者， 业主"
+  },
+  {
+   "spanish": "piso de dos habitaciones  拉美",
+   "chinese": "【西】"
+  },
+  {
+   "spanish": "departamento de dos recámaras  拉美",
+   "chinese": "【墨】两居室公寓"
+  },
+  {
+   "spanish": "amueblado  拉美",
+   "chinese": "adj. 配有家具的"
+  },
+  {
+   "spanish": "sin amueblar  拉美",
+   "chinese": "不配有家具"
+  },
+  {
+   "spanish": "limpio  拉美",
+   "chinese": "adj. 干净的"
+  },
+  {
+   "spanish": "sucio  拉美",
+   "chinese": "adj. 脏的"
+  },
+  {
+   "spanish": "limpiar la casa  拉美",
+   "chinese": "打扫房间"
+  },
+  {
+   "spanish": "limpiar la cocina  拉美",
+   "chinese": "打扫厨房"
+  },
+  {
+   "spanish": "limpiar el baño  拉美",
+   "chinese": "打扫卫生间"
+  },
+  {
+   "spanish": "lavar los platos  拉美",
+   "chinese": "洗碗碟"
+  },
+  {
+   "spanish": "lavar la ropa  拉美",
+   "chinese": "洗衣服"
+  },
+  {
+   "spanish": "nevera  拉美",
+   "chinese": "【西】f. 冰箱【西】；m.冰箱【墨】"
+  },
+  {
+   "spanish": "refrigerador  拉美",
+   "chinese": "【墨】"
+  },
+  {
+   "spanish": "lavadora  拉美",
+   "chinese": "f. 洗衣机"
+  },
+  {
+   "spanish": "lavaplatos  拉美",
+   "chinese": "amb. 洗碗机"
+  },
+  {
+   "spanish": "microondas  拉美",
+   "chinese": "m. 微波炉"
+  },
+  {
+   "spanish": "cocina  拉美",
+   "chinese": "f. 厨房"
+  },
+  {
+   "spanish": "moneda  拉美",
+   "chinese": "f. 硬币"
+  },
+  {
+   "spanish": "billete  拉美",
+   "chinese": "m. 钞票，票；注：在表示票的时候，；拉美用boleto"
+  },
+  {
+   "spanish": "cajero automático  拉美",
+   "chinese": "自动取款机"
+  },
+  {
+   "spanish": "ambulancia  拉美",
+   "chinese": "f. 救护车"
+  },
+  {
+   "spanish": "Cruz Roja  拉美",
+   "chinese": "红十字会"
+  },
+  {
+   "spanish": "comisaría  拉美",
+   "chinese": "f. 警察局"
+  },
+  {
+   "spanish": "socorro  拉美",
+   "chinese": "m. 援助，救助；救命啊！（用于求救时）"
+  },
+  {
+   "spanish": "llamar a la policía  拉美",
+   "chinese": "报警，给警察打电话"
+  },
+  {
+   "spanish": "llamar a los bomberos  拉美",
+   "chinese": "给消防员打电话"
+  },
+  {
+   "spanish": "teléfono de emergencia  拉美",
+   "chinese": "紧急联系电话"
+  },
+  {
+   "spanish": "papelería  拉美",
+   "chinese": "f. 文具店"
+  },
+  {
+   "spanish": "peluquería  拉美",
+   "chinese": "f. 理发店"
+  },
+  {
+   "spanish": "quiosco  拉美",
+   "chinese": "m. 报亭，亭子"
+  },
+  {
+   "spanish": "estanco  拉美",
+   "chinese": "【西】m. 专卖品商店(尤指邮票，烟草，；火柴等的专卖商店)"
+  },
+  {
+   "spanish": "frutería  拉美",
+   "chinese": "f. 水果店"
+  },
+  {
+   "spanish": "agencia de viajes  拉美",
+   "chinese": "旅行社"
+  },
+  {
+   "spanish": "frutero  拉美",
+   "chinese": "m.,f. 卖水果的人"
+  },
+  {
+   "spanish": "carnicero  拉美",
+   "chinese": "m.,f. 卖肉的人"
+  },
+  {
+   "spanish": "panadero  拉美",
+   "chinese": "m.,f. 卖面包的人，面包师"
+  },
+  {
+   "spanish": "devolver  拉美",
+   "chinese": "tr. 归还，退回；DELE A2词汇四（351-450）；Video preview"
+  },
+  {
+   "spanish": "cambiar  拉美",
+   "chinese": "tr. 换，交换，改变"
+  },
+  {
+   "spanish": "hacer la compra  拉美",
+   "chinese": "采购日用品，食物"
+  },
+  {
+   "spanish": "blusa  拉美",
+   "chinese": "f. 女士衬衣，衬衫"
+  },
+  {
+   "spanish": "pijama  拉美",
+   "chinese": "m. 睡衣 【西】；f. 睡衣 【拉】"
+  },
+  {
+   "spanish": "cazadora  拉美",
+   "chinese": "f. 猎装，夹克"
+  },
+  {
+   "spanish": "guante  拉美",
+   "chinese": "m. 手套 多用复数形式"
+  },
+  {
+   "spanish": "bufanda  拉美",
+   "chinese": "f. 围巾"
+  },
+  {
+   "spanish": "sujetador  拉美",
+   "chinese": "m. 文胸，胸罩"
+  },
+  {
+   "spanish": "brasier   拉美",
+   "chinese": "【墨】"
+  },
+  {
+   "spanish": "braga  拉美",
+   "chinese": "【西】女士内裤"
+  },
+  {
+   "spanish": "bañador/traje de baño  拉美",
+   "chinese": "m. 泳衣"
+  },
+  {
+   "spanish": "biquini/ bikini  拉美",
+   "chinese": "m．比基尼"
+  },
+  {
+   "spanish": "probador  拉美",
+   "chinese": "m. 试衣间"
+  },
+  {
+   "spanish": "ropa de hombre  拉美",
+   "chinese": "男装"
+  },
+  {
+   "spanish": "ropa de mujer  拉美",
+   "chinese": "女装"
+  },
+  {
+   "spanish": "ropa de niño  拉美",
+   "chinese": "童装"
+  },
+  {
+   "spanish": "ponerse  拉美",
+   "chinese": "prnl. 穿，戴；打扮"
+  },
+  {
+   "spanish": "quitarse  拉美",
+   "chinese": "prnl. 脱下，移开"
+  },
+  {
+   "spanish": "probarse  拉美",
+   "chinese": "prnl. 试穿，试戴"
+  },
+  {
+   "spanish": "una docena de huevos  拉美",
+   "chinese": "一打鸡蛋（12个）"
+  },
+  {
+   "spanish": "una lata de atún  拉美",
+   "chinese": "一个金枪鱼罐头"
+  },
+  {
+   "spanish": "una bolsa de harina  拉美",
+   "chinese": "一袋面粉"
+  },
+  {
+   "spanish": "una caja de galletas  拉美",
+   "chinese": "一盒饼干"
+  },
+  {
+   "spanish": "un bote de mermelada  拉美",
+   "chinese": "一瓶果酱"
+  },
+  {
+   "spanish": "un litro de leche  拉美",
+   "chinese": "一升牛奶"
+  },
+  {
+   "spanish": "un kilo de patatas  拉美",
+   "chinese": "【西】一公斤土豆"
+  },
+  {
+   "spanish": "un kilo   de papas  拉美",
+   "chinese": "【拉】"
+  },
+  {
+   "spanish": "un kilo  拉美",
+   "chinese": "一公斤"
+  },
+  {
+   "spanish": "medio kilo  拉美",
+   "chinese": "一斤（半公斤）"
+  },
+  {
+   "spanish": "un cuarto(de kilo)  拉美",
+   "chinese": "半斤；在买东西的时候，由于有环境可直接说un cuarto"
+  },
+  {
+   "spanish": "cien gramos  拉美",
+   "chinese": "一百克"
+  },
+  {
+   "spanish": "doscientos gramos  拉美",
+   "chinese": "两百克"
+  },
+  {
+   "spanish": "hacer la lista de la compra  拉美",
+   "chinese": "列购物清单"
+  },
+  {
+   "spanish": "pesar  拉美",
+   "chinese": "tr. 称量，称重 intr. 有重量，沉"
+  },
+  {
+   "spanish": "dejar/dar propina  拉美",
+   "chinese": "给小费"
+  },
+  {
+   "spanish": "con/sin IVA  拉美",
+   "chinese": "含/不含税"
+  },
+  {
+   "spanish": "pagar en efectivo  拉美",
+   "chinese": "付现金"
+  },
+  {
+   "spanish": "sentirse bien/mal  拉美",
+   "chinese": "感觉好/不舒服"
+  },
+  {
+   "spanish": "tener gripe  拉美",
+   "chinese": "感冒"
+  },
+  {
+   "spanish": "tener alergia a…  拉美",
+   "chinese": "对…过敏"
+  },
+  {
+   "spanish": "tener fiebre  拉美",
+   "chinese": "发烧"
+  },
+  {
+   "spanish": "tener tos  拉美",
+   "chinese": "咳嗽"
+  },
+  {
+   "spanish": "llevar una vida sana  拉美",
+   "chinese": "过着健康的生活"
+  },
+  {
+   "spanish": "tener una enfermedad  拉美",
+   "chinese": "患有一种疾病"
+  },
+  {
+   "spanish": "dolor de cabeza/espalda/estómago  拉美",
+   "chinese": "头疼/背疼/胃疼"
+  },
+  {
+   "spanish": "urgencia  拉美",
+   "chinese": "f.   紧急，急事"
+  },
+  {
+   "spanish": "tomar medicina, tomar medicamento  拉美",
+   "chinese": "吃药"
+  },
+  {
+   "spanish": "bañera  拉美",
+   "chinese": "f. 浴缸"
+  },
+  {
+   "spanish": "toalla  拉美",
+   "chinese": "f. 毛巾，浴巾"
+  },
+  {
+   "spanish": "champú  拉美",
+   "chinese": "m. 洗发水"
+  },
+  {
+   "spanish": "gel  拉美",
+   "chinese": "m. 啫喱，凝胶体"
+  },
+  {
+   "spanish": "crema  拉美",
+   "chinese": "f. 霜，奶油"
+  },
+  {
+   "spanish": "desodorante  拉美",
+   "chinese": "m. 止汗体香剂"
+  },
+  {
+   "spanish": "cepillo de dientes  拉美",
+   "chinese": "牙刷"
+  },
+  {
+   "spanish": "pasta de dientes  拉美",
+   "chinese": "牙膏"
+  },
+  {
+   "spanish": "cepillarse los dientes  拉美",
+   "chinese": "刷牙"
+  },
+  {
+   "spanish": "hacer las maletas  拉美",
+   "chinese": "收拾行李"
+  },
+  {
+   "spanish": "ver el mapa  拉美",
+   "chinese": "看地图"
+  },
+  {
+   "spanish": "tener un seguro de viaje  拉美",
+   "chinese": "有一份旅行保险"
+  },
+  {
+   "spanish": "reservar un billete de tren  拉美",
+   "chinese": "【西】预定一张火车票"
+  },
+  {
+   "spanish": "reservar un boleto de tren  拉美",
+   "chinese": "【拉】"
+  },
+  {
+   "spanish": "guía de turistas  拉美",
+   "chinese": "导游"
+  },
+  {
+   "spanish": "vuelo  拉美",
+   "chinese": "m. 航班"
+  },
+  {
+   "spanish": "excursión  拉美",
+   "chinese": "f.   郊游, 远足"
+  },
+  {
+   "spanish": "viaje corto  拉美",
+   "chinese": "短途旅行"
+  },
+  {
+   "spanish": "viaje largo  拉美",
+   "chinese": "长途旅行"
+  },
+  {
+   "spanish": "ir de viaje  拉美",
+   "chinese": "去旅行"
+  },
+  {
+   "spanish": "ir de vacaciones  拉美",
+   "chinese": "去度假"
+  },
+  {
+   "spanish": "botas de montaña  拉美",
+   "chinese": "登山靴"
+  },
+  {
+   "spanish": "mochila  拉美",
+   "chinese": "f.   背包，双肩包"
+  },
+  {
+   "spanish": "abrigo  拉美",
+   "chinese": "m. 外套, 大衣"
+  },
+  {
+   "spanish": "pensión completa  拉美",
+   "chinese": "全膳住宿"
+  },
+  {
+   "spanish": "media pensión  拉美",
+   "chinese": "半膳住宿"
+  },
+  {
+   "spanish": "alojamiento y desayuno  拉美",
+   "chinese": "住宿加次日早餐"
+  },
+  {
+   "spanish": "reservar  拉美",
+   "chinese": "tr.   保存, 留存，预定"
+  },
+  {
+   "spanish": "hacer una reserva  拉美",
+   "chinese": "预定，做一个预定"
+  },
+  {
+   "spanish": "ciclista  拉美",
+   "chinese": "m.,f. 骑自行车的人，自行车运动员"
+  },
+  {
+   "spanish": "tomar un taxi  拉美",
+   "chinese": "乘坐一辆出租车"
+  },
+  {
+   "spanish": "tomar el metro/tren/barco  拉美",
+   "chinese": "乘坐地铁/火车/船"
+  },
+  {
+   "spanish": "piloto  拉美",
+   "chinese": "m.,f. 飞行员, 驾驶员"
+  },
+  {
+   "spanish": "azafata  拉美",
+   "chinese": "m.,f. 空姐，空乘人员"
+  },
+  {
+   "spanish": "tomar el avión  拉美",
+   "chinese": "乘坐飞机"
+  },
+  {
+   "spanish": "rueda  拉美",
+   "chinese": "f. 轮子"
+  },
+  {
+   "spanish": "mecánico  拉美",
+   "chinese": "adj.   机械的，力学的；m.,f.   机械师，机械修理工"
+  },
+  {
+   "spanish": "lavar el coche  拉美",
+   "chinese": "洗车"
+  },
+  {
+   "spanish": "cheque  拉美",
+   "chinese": "m. 支票"
+  },
+  {
+   "spanish": "pobre  拉美",
+   "chinese": "adj.   贫穷的，贫乏的，不足的，；m.,f. 穷人"
+  },
+  {
+   "spanish": "empleado  拉美",
+   "chinese": "m.,f. 职员"
+  },
+  {
+   "spanish": "agricultor  拉美",
+   "chinese": "adj. 农业的；m.,f.   从事农业生产的人，农民"
+  },
+  {
+   "spanish": "ciencia  拉美",
+   "chinese": "f.   科学"
+  },
+  {
+   "spanish": "tecnología  拉美",
+   "chinese": "f. 技术，科技"
+  },
+  {
+   "spanish": "científico  拉美",
+   "chinese": "adj. 科学的；m.,f. 科学家"
+  },
+  {
+   "spanish": "portátil  拉美",
+   "chinese": "adj.   便于携带的，轻便的；m. 笔记本电脑；在表示笔记本电脑时墨西哥使用laptop或者   computadora portátil"
+  },
+  {
+   "spanish": "informática  拉美",
+   "chinese": "f. 信息学"
+  },
+  {
+   "spanish": "informático  拉美",
+   "chinese": "adj. 信息学的；m.,f.   信息研究员"
+  },
+  {
+   "spanish": "navegar por Internet  拉美",
+   "chinese": "网上冲浪"
+  },
+  {
+   "spanish": "chatear  拉美",
+   "chinese": "intr. （网络）聊天"
+  },
+  {
+   "spanish": "educación  拉美",
+   "chinese": "f. 教育"
+  },
+  {
+   "spanish": "gobierno  拉美",
+   "chinese": "m. 政府"
+  },
+  {
+   "spanish": "política  拉美",
+   "chinese": "f.   政治，政策"
+  },
+  {
+   "spanish": "partido político  拉美",
+   "chinese": "政党"
+  },
+  {
+   "spanish": "ministro  拉美",
+   "chinese": "m.,f. （政府的）部长；DELE A2词汇五（451-555）；Video preview"
+  },
+  {
+   "spanish": "príncipe  拉美",
+   "chinese": "m. 王子"
+  },
+  {
+   "spanish": "princesa  拉美",
+   "chinese": "f. 公主"
+  },
+  {
+   "spanish": "ayuntamiento  拉美",
+   "chinese": "m. 市政府"
+  },
+  {
+   "spanish": "juez  拉美",
+   "chinese": "m.,f. 法官"
+  },
+  {
+   "spanish": "ejército  拉美",
+   "chinese": "m. 军队"
+  },
+  {
+   "spanish": "guerra  拉美",
+   "chinese": "f. 战争"
+  },
+  {
+   "spanish": "paz  拉美",
+   "chinese": "f. 和平，宁静"
+  },
+  {
+   "spanish": "arte  拉美",
+   "chinese": "amb. 艺术 (多用作阳性)"
+  },
+  {
+   "spanish": "artista  拉美",
+   "chinese": "m.,f. 艺术家"
+  },
+  {
+   "spanish": "literatura  拉美",
+   "chinese": "f. 文学"
+  },
+  {
+   "spanish": "monumento  拉美",
+   "chinese": "m. 纪念碑"
+  },
+  {
+   "spanish": "estatua  拉美",
+   "chinese": "f. 雕像，塑像"
+  },
+  {
+   "spanish": "novela  拉美",
+   "chinese": "f. 小说"
+  },
+  {
+   "spanish": "poesía  拉美",
+   "chinese": "f. 诗"
+  },
+  {
+   "spanish": "cuadro  拉美",
+   "chinese": "m. 方形，画, 方格"
+  },
+  {
+   "spanish": "músico  拉美",
+   "chinese": "m.,f. 音乐家；adj. 音乐的"
+  },
+  {
+   "spanish": "canción  拉美",
+   "chinese": "f. 歌曲"
+  },
+  {
+   "spanish": "guitarra  拉美",
+   "chinese": "f. 吉他"
+  },
+  {
+   "spanish": "piano  拉美",
+   "chinese": "m. 钢琴"
+  },
+  {
+   "spanish": "violín  拉美",
+   "chinese": "m. 小提琴"
+  },
+  {
+   "spanish": "flamenco  拉美",
+   "chinese": "m. 弗拉明戈舞"
+  },
+  {
+   "spanish": "rock  拉美",
+   "chinese": "m. 摇滚乐"
+  },
+  {
+   "spanish": "pop  拉美",
+   "chinese": "m. 流行音乐；adj. 流行的，通俗的"
+  },
+  {
+   "spanish": "jazz  拉美",
+   "chinese": "m. 爵士音乐"
+  },
+  {
+   "spanish": "tango  拉美",
+   "chinese": "m. 探戈"
+  },
+  {
+   "spanish": "música clásica  拉美",
+   "chinese": "古典音乐"
+  },
+  {
+   "spanish": "música moderna  拉美",
+   "chinese": "现代音乐"
+  },
+  {
+   "spanish": "tocar un instrumento  拉美",
+   "chinese": "弹奏一种乐器"
+  },
+  {
+   "spanish": "tocar piano  拉美",
+   "chinese": "弹奏钢琴"
+  },
+  {
+   "spanish": "arquitecto  拉美",
+   "chinese": "m.,f. 建筑师"
+  },
+  {
+   "spanish": "pintor  拉美",
+   "chinese": "m.,f. 画家"
+  },
+  {
+   "spanish": "dibujo  拉美",
+   "chinese": "m. 绘画，图画"
+  },
+  {
+   "spanish": "palacio  拉美",
+   "chinese": "m. 宫殿"
+  },
+  {
+   "spanish": "castillo  拉美",
+   "chinese": "m. 城堡"
+  },
+  {
+   "spanish": "pintar  拉美",
+   "chinese": "tr. 画，涂饰，涂油漆；intr.   （笔）出颜色，涂抹"
+  },
+  {
+   "spanish": "escritor  拉美",
+   "chinese": "m.,f. 作家，作者"
+  },
+  {
+   "spanish": "escritura  拉美",
+   "chinese": "f. 书写"
+  },
+  {
+   "spanish": "poeta  拉美",
+   "chinese": "m.,f. 诗人"
+  },
+  {
+   "spanish": "cuento  拉美",
+   "chinese": "m. 故事"
+  },
+  {
+   "spanish": "fotografía  拉美",
+   "chinese": "f. 摄影"
+  },
+  {
+   "spanish": "fotógrafo  拉美",
+   "chinese": "m.,f. 摄影师"
+  },
+  {
+   "spanish": "cámara  拉美",
+   "chinese": "f. 相机"
+  },
+  {
+   "spanish": "hacer fotos  拉美",
+   "chinese": "摄影，拍照片"
+  },
+  {
+   "spanish": "hacer una foto  拉美",
+   "chinese": "拍一张照片"
+  },
+  {
+   "spanish": "director  拉美",
+   "chinese": "m.,f. 领导者，负责人，导演"
+  },
+  {
+   "spanish": "iglesia  拉美",
+   "chinese": "f. 教堂"
+  },
+  {
+   "spanish": "navidad  拉美",
+   "chinese": "f. 圣诞节"
+  },
+  {
+   "spanish": "ramadán  拉美",
+   "chinese": "m. 斋月"
+  },
+  {
+   "spanish": "sabbat  拉美",
+   "chinese": "m. 安息日"
+  },
+  {
+   "spanish": "mundo  拉美",
+   "chinese": "m. 世界"
+  },
+  {
+   "spanish": "cielo  拉美",
+   "chinese": "m. 天空"
+  },
+  {
+   "spanish": "luna  拉美",
+   "chinese": "f. 月亮"
+  },
+  {
+   "spanish": "estrella  拉美",
+   "chinese": "f. 星星"
+  },
+  {
+   "spanish": "planeta  拉美",
+   "chinese": "m. 行星"
+  },
+  {
+   "spanish": "región  拉美",
+   "chinese": "f. 地区，地带"
+  },
+  {
+   "spanish": "noroeste  拉美",
+   "chinese": "m. 西北"
+  },
+  {
+   "spanish": "nordeste  拉美",
+   "chinese": "m. 东北"
+  },
+  {
+   "spanish": "suroeste, sudoeste  拉美",
+   "chinese": "m. 西南"
+  },
+  {
+   "spanish": "sudeste  拉美",
+   "chinese": "m. 东南"
+  },
+  {
+   "spanish": "isla  拉美",
+   "chinese": "f. 岛，岛屿"
+  },
+  {
+   "spanish": "desierto  拉美",
+   "chinese": "m. 沙漠"
+  },
+  {
+   "spanish": "bosque  拉美",
+   "chinese": "m. 森林"
+  },
+  {
+   "spanish": "costa  拉美",
+   "chinese": "f. 海岸，海滨"
+  },
+  {
+   "spanish": "interior  拉美",
+   "chinese": "m. 内部；adj.   内里的，内部的"
+  },
+  {
+   "spanish": "habitante  拉美",
+   "chinese": "m. 居民"
+  },
+  {
+   "spanish": "barrio  拉美",
+   "chinese": "m. 区，地段"
+  },
+  {
+   "spanish": "esquina  拉美",
+   "chinese": "f. 角落，街角"
+  },
+  {
+   "spanish": "Plaza Mayor  拉美",
+   "chinese": "主广场（也被译为马约尔广场，位于西班牙马德里）"
+  },
+  {
+   "spanish": "Calle Mayor  拉美",
+   "chinese": "马约尔大街"
+  },
+  {
+   "spanish": "calle peatonal  拉美",
+   "chinese": "步行街"
+  },
+  {
+   "spanish": "calle comercial  拉美",
+   "chinese": "商业街"
+  },
+  {
+   "spanish": "ciudad  cosmopolita  拉美",
+   "chinese": "国际大都市"
+  },
+  {
+   "spanish": "ciudad abierta  拉美",
+   "chinese": "不设防城市"
+  },
+  {
+   "spanish": "ciudad industrial  拉美",
+   "chinese": "工业城市"
+  },
+  {
+   "spanish": "ciudad antigua  拉美",
+   "chinese": "古老的城市"
+  },
+  {
+   "spanish": "ciudad moderna  拉美",
+   "chinese": "现代化城市"
+  },
+  {
+   "spanish": "ciudad universitaria  拉美",
+   "chinese": "大学城"
+  },
+  {
+   "spanish": "naturaleza  拉美",
+   "chinese": "f. 自然，天性，本性"
+  },
+  {
+   "spanish": "jardín  拉美",
+   "chinese": "m. 花园"
+  },
+  {
+   "spanish": "lluvia  拉美",
+   "chinese": "f. 雨"
+  },
+  {
+   "spanish": "nieve  拉美",
+   "chinese": "f. 雪"
+  },
+  {
+   "spanish": "niebla  拉美",
+   "chinese": "f. 雾"
+  },
+  {
+   "spanish": "tormenta  拉美",
+   "chinese": "f. 暴风雨"
+  },
+  {
+   "spanish": "nube  拉美",
+   "chinese": "f. 云"
+  },
+  {
+   "spanish": "aire  拉美",
+   "chinese": "m. 空气"
+  },
+  {
+   "spanish": "viento del norte  拉美",
+   "chinese": "北风"
+  },
+  {
+   "spanish": "viento del sur  拉美",
+   "chinese": "南风"
+  },
+  {
+   "spanish": "perro  拉美",
+   "chinese": "m.,f. 狗"
+  },
+  {
+   "spanish": "gato  拉美",
+   "chinese": "m.,f. 猫"
+  },
+  {
+   "spanish": "pájaro  拉美",
+   "chinese": "m. 鸟"
+  },
+  {
+   "spanish": "pez  拉美",
+   "chinese": "m. 鱼，鱼类"
+  },
+  {
+   "spanish": "caballo  拉美",
+   "chinese": "m. 马"
+  },
+  {
+   "spanish": "vaca  拉美",
+   "chinese": "f. 母牛"
+  },
+  {
+   "spanish": "cerdo  拉美",
+   "chinese": "m.,f. 猪"
+  },
+  {
+   "spanish": "mosca  拉美",
+   "chinese": "f. 苍蝇"
+  },
+  {
+   "spanish": "mosquito  拉美",
+   "chinese": "m. 蚊子"
+  },
+  {
+   "spanish": "araña  拉美",
+   "chinese": "f. 蜘蛛"
+  },
+  {
+   "spanish": "rosa  拉美",
+   "chinese": "f. 玫瑰花"
+  },
+  {
+   "spanish": "margarita  拉美",
+   "chinese": "f. 雏菊"
+  },
+  {
+   "spanish": "pino  拉美",
+   "chinese": "m. 松木"
+  },
+  {
+   "spanish": "olivo  拉美",
+   "chinese": "m. 橄榄树"
+  },
+  {
+   "spanish": "un ramo de flores  拉美",
+   "chinese": "一束花"
+  }
+ ],
+ "B1": [
+  {
+   "spanish": "músculo  拉美",
+   "chinese": "m. 肌肉"
+  },
+  {
+   "spanish": "hueso  拉美",
+   "chinese": "m. 骨头"
+  },
+  {
+   "spanish": "piel  拉美",
+   "chinese": "f. 皮肤，皮"
+  },
+  {
+   "spanish": "corazón  拉美",
+   "chinese": "m. 心脏，心，心肠"
+  },
+  {
+   "spanish": "pulmón  拉美",
+   "chinese": "m. 肺"
+  },
+  {
+   "spanish": "cuello  拉美",
+   "chinese": "m. 脖子"
+  },
+  {
+   "spanish": "hombro  拉美",
+   "chinese": "m. 肩膀"
+  },
+  {
+   "spanish": "pecho  拉美",
+   "chinese": "m.胸，胸腔"
+  },
+  {
+   "spanish": "cintura  拉美",
+   "chinese": "f. 腰"
+  },
+  {
+   "spanish": "barriga  拉美",
+   "chinese": "f. 肚子"
+  },
+  {
+   "spanish": "rodilla  拉美",
+   "chinese": "f. 膝盖"
+  },
+  {
+   "spanish": "tobillo  拉美",
+   "chinese": "m. 脚踝"
+  },
+  {
+   "spanish": "codo  拉美",
+   "chinese": "m. 胳膊肘"
+  },
+  {
+   "spanish": "muñeca  拉美",
+   "chinese": "f. 手腕，洋娃娃"
+  },
+  {
+   "spanish": "postura  拉美",
+   "chinese": "f. 姿势，立场"
+  },
+  {
+   "spanish": "mirada  拉美",
+   "chinese": "f. 目光，眼神"
+  },
+  {
+   "spanish": "parecerse a su padre/madre  拉美",
+   "chinese": "像他（她）父亲/母亲"
+  },
+  {
+   "spanish": "se parecen mucho entre ellos  拉美",
+   "chinese": "他们很像"
+  },
+  {
+   "spanish": "tener la piel clara  拉美",
+   "chinese": "浅色的皮肤"
+  },
+  {
+   "spanish": "piel oscura  拉美",
+   "chinese": "深色的皮肤，棕黑色皮肤"
+  },
+  {
+   "spanish": "piel sensible  拉美",
+   "chinese": "敏感皮肤"
+  },
+  {
+   "spanish": "piel suave  拉美",
+   "chinese": "柔软细腻的皮肤"
+  },
+  {
+   "spanish": "ser blanco  拉美",
+   "chinese": "白色皮肤的"
+  },
+  {
+   "spanish": "ser moreno  拉美",
+   "chinese": "棕黑色皮肤的"
+  },
+  {
+   "spanish": "tener buena figura  拉美",
+   "chinese": "有好身材"
+  },
+  {
+   "spanish": "tener buena presencia  拉美",
+   "chinese": "有好的外貌"
+  },
+  {
+   "spanish": "caminar  拉美",
+   "chinese": "tr. 走，行走"
+  },
+  {
+   "spanish": "dar un paseo  拉美",
+   "chinese": "散步"
+  },
+  {
+   "spanish": "saltar  拉美",
+   "chinese": "intr. 跳，跳跃 tr. 跳过"
+  },
+  {
+   "spanish": "estar sentado  拉美",
+   "chinese": "坐着"
+  },
+  {
+   "spanish": "estar de pie  拉美",
+   "chinese": "站着"
+  },
+  {
+   "spanish": "respirar  拉美",
+   "chinese": "intr. 呼吸"
+  },
+  {
+   "spanish": "llorar  拉美",
+   "chinese": "intr. 哭泣"
+  },
+  {
+   "spanish": "oler  拉美",
+   "chinese": "tr. 闻"
+  },
+  {
+   "spanish": "tocar  拉美",
+   "chinese": "tr. 触摸"
+  },
+  {
+   "spanish": "besar  拉美",
+   "chinese": "tr. 亲吻"
+  },
+  {
+   "spanish": "abrazar  拉美",
+   "chinese": "tr. 拥抱"
+  },
+  {
+   "spanish": "levantar las manos  拉美",
+   "chinese": "举手"
+  },
+  {
+   "spanish": "bajar los brazos  拉美",
+   "chinese": "放下胳膊"
+  },
+  {
+   "spanish": "mover la cabeza  拉美",
+   "chinese": "摇头"
+  },
+  {
+   "spanish": "soltar  拉美",
+   "chinese": "tr. 撒手放掉，松开"
+  },
+  {
+   "spanish": "vida  拉美",
+   "chinese": "f. 生命，生活"
+  },
+  {
+   "spanish": "muerte  拉美",
+   "chinese": "f. 死亡"
+  },
+  {
+   "spanish": "estar embarazada  拉美",
+   "chinese": "怀孕"
+  },
+  {
+   "spanish": "ser virgen  拉美",
+   "chinese": "是处男/女"
+  },
+  {
+   "spanish": "hacer el amor  拉美",
+   "chinese": "做爱"
+  },
+  {
+   "spanish": "tener relaciones sexuales  拉美",
+   "chinese": "有性关系"
+  },
+  {
+   "spanish": "tomar la píldora  拉美",
+   "chinese": "吃避孕药"
+  },
+  {
+   "spanish": "usar preservativos  拉美",
+   "chinese": "使用安全套"
+  },
+  {
+   "spanish": "tener la regla  拉美",
+   "chinese": "来月经"
+  },
+  {
+   "spanish": "optimismo  拉美",
+   "chinese": "m. 乐观，乐观主义"
+  },
+  {
+   "spanish": "pesimismo  拉美",
+   "chinese": "m. 悲观，悲观主义"
+  },
+  {
+   "spanish": "tranquilidad  拉美",
+   "chinese": "f. 安静，平和，宁静"
+  },
+  {
+   "spanish": "intranquilidad  拉美",
+   "chinese": "f. 不安，焦虑"
+  },
+  {
+   "spanish": "paciencia  拉美",
+   "chinese": "f. 耐心"
+  },
+  {
+   "spanish": "impaciencia  拉美",
+   "chinese": "f. 急躁，缺乏耐心"
+  },
+  {
+   "spanish": "sincero  拉美",
+   "chinese": "adj. 真诚的，诚恳的，真挚的"
+  },
+  {
+   "spanish": "impaciente  拉美",
+   "chinese": "adj. 没有耐心的"
+  },
+  {
+   "spanish": "paciente  拉美",
+   "chinese": "adj. 耐心的"
+  },
+  {
+   "spanish": "introvertido  拉美",
+   "chinese": "adj. 内向的 m.,f. 内向的人"
+  },
+  {
+   "spanish": "extravertido  拉美",
+   "chinese": "adj. 外向的 m.,f. 外向的人"
+  },
+  {
+   "spanish": "vago  拉美",
+   "chinese": "adj. 流浪的，游手好闲的"
+  },
+  {
+   "spanish": "travieso  拉美",
+   "chinese": "adj. 淘气的"
+  },
+  {
+   "spanish": "seguro  拉美",
+   "chinese": "adj. 自信的，确定的，安全的，可靠的"
+  },
+  {
+   "spanish": "inseguro  拉美",
+   "chinese": "adj. 不自信的，不确定的，不安全的，不可靠的"
+  },
+  {
+   "spanish": "conservador  拉美",
+   "chinese": "adj. 保守的，守旧的"
+  },
+  {
+   "spanish": "hablador  拉美",
+   "chinese": "adj. 话多的"
+  },
+  {
+   "spanish": "tener sentido del humor  拉美",
+   "chinese": "有幽默感"
+  },
+  {
+   "spanish": "tener un carácter fuerte  拉美",
+   "chinese": "性格刚烈"
+  },
+  {
+   "spanish": "tener un carácter débil  拉美",
+   "chinese": "性格软弱"
+  },
+  {
+   "spanish": "sentimiento  拉美",
+   "chinese": "m. 感觉，感情，情绪"
+  },
+  {
+   "spanish": "amor  拉美",
+   "chinese": "m. 爱，爱情"
+  },
+  {
+   "spanish": "amistad  拉美",
+   "chinese": "f. 友谊"
+  },
+  {
+   "spanish": "aburrido  拉美",
+   "chinese": "adj. 无聊的"
+  },
+  {
+   "spanish": "asustado  拉美",
+   "chinese": "adj. 受到惊吓的，害怕的"
+  },
+  {
+   "spanish": "estresado  拉美",
+   "chinese": "adj. 有压力的"
+  },
+  {
+   "spanish": "deprimido  拉美",
+   "chinese": "adj. 感到压抑的"
+  },
+  {
+   "spanish": "enamorado  拉美",
+   "chinese": "adj. 爱上（某人)的"
+  },
+  {
+   "spanish": "alegrarse  拉美",
+   "chinese": "prnl. 欣喜，开心"
+  },
+  {
+   "spanish": "divertirse  拉美",
+   "chinese": "prnl. 娱乐，感到愉快"
+  },
+  {
+   "spanish": "enamorarse  拉美",
+   "chinese": "prnl. 爱上"
+  },
+  {
+   "spanish": "aburrirse  拉美",
+   "chinese": "prnl.厌倦，厌烦"
+  },
+  {
+   "spanish": "deprimirse  拉美",
+   "chinese": "prnl. 消沉，沮丧"
+  },
+  {
+   "spanish": "enfadarse  拉美",
+   "chinese": "prnl.生气"
+  },
+  {
+   "spanish": "dar pena  拉美",
+   "chinese": "感到遗憾 在墨西哥表示 感到害羞，不好意思"
+  },
+  {
+   "spanish": "dar lástima  拉美",
+   "chinese": "感到可惜，遗憾"
+  },
+  {
+   "spanish": "dar miedo  拉美",
+   "chinese": "让害怕"
+  },
+  {
+   "spanish": "ponerse triste  拉美",
+   "chinese": "伤心起来"
+  },
+  {
+   "spanish": "ponerse contento  拉美",
+   "chinese": "开心，高兴起来"
+  },
+  {
+   "spanish": "ponerse de mal humor  拉美",
+   "chinese": "心情不好"
+  },
+  {
+   "spanish": "encontrarse bien  拉美",
+   "chinese": "感觉好"
+  },
+  {
+   "spanish": "encontrarse mal  拉美",
+   "chinese": "感觉不好，感觉不舒服"
+  },
+  {
+   "spanish": "encontrarse fatal  拉美",
+   "chinese": "感觉很糟糕"
+  },
+  {
+   "spanish": "soportar  拉美",
+   "chinese": "tr. 忍受，承受"
+  },
+  {
+   "spanish": "sentir calor  拉美",
+   "chinese": "感到炎热"
+  },
+  {
+   "spanish": "sentir frío  拉美",
+   "chinese": "感到寒冷"
+  },
+  {
+   "spanish": "cansarse  拉美",
+   "chinese": "prnl. 疲劳，疲惫"
+  },
+  {
+   "spanish": "portarse bien/mal  拉美",
+   "chinese": "表现好/不好"
+  },
+  {
+   "spanish": "ser educado  拉美",
+   "chinese": "有教养的"
+  },
+  {
+   "spanish": "ser maleducado  拉美",
+   "chinese": "没有教养的；DELE B1词汇二（101-200）；Video preview"
+  },
+  {
+   "spanish": "tener buena/mala suerte  拉美",
+   "chinese": "运气好/不好"
+  },
+  {
+   "spanish": "vivir en las afueras  拉美",
+   "chinese": "住在城外，郊区"
+  },
+  {
+   "spanish": "vivir en el centro  拉美",
+   "chinese": "住在市中心"
+  },
+  {
+   "spanish": "cambiar de dirección  拉美",
+   "chinese": "换地址"
+  },
+  {
+   "spanish": "recién nacido  拉美",
+   "chinese": "新生儿"
+  },
+  {
+   "spanish": "anciano  拉美",
+   "chinese": "adj. 年老的 m.,f. 老年人"
+  },
+  {
+   "spanish": "varón  拉美",
+   "chinese": "m. 男人"
+  },
+  {
+   "spanish": "hembra  拉美",
+   "chinese": "f. 雌性动物，雌性植株"
+  },
+  {
+   "spanish": "macho  拉美",
+   "chinese": "f. 雄性动物，雄性植株"
+  },
+  {
+   "spanish": "masculino  拉美",
+   "chinese": "adj. 男的，雄的，公的，男子气的，阳性的"
+  },
+  {
+   "spanish": "femenino  拉美",
+   "chinese": "adj. 女性的，雌的，女性化的，阴性的"
+  },
+  {
+   "spanish": "heterosexual  拉美",
+   "chinese": "adj. 异性恋的 m.,f. 异性恋者"
+  },
+  {
+   "spanish": "homosexual  拉美",
+   "chinese": "adj. 同性恋的 m.,f. 同性恋者"
+  },
+  {
+   "spanish": "bisexual  拉美",
+   "chinese": "adj. 两性的，雌雄同体的"
+  },
+  {
+   "spanish": "transexual  拉美",
+   "chinese": "adj. 转换性别的 m.,f. 改变性别的人"
+  },
+  {
+   "spanish": "gay  拉美",
+   "chinese": "adj. 男同性恋的 m.,f. 男同性恋者"
+  },
+  {
+   "spanish": "lesbiana  拉美",
+   "chinese": "adj. 女同性恋的 m.,f. 女同性恋者"
+  },
+  {
+   "spanish": "boda civil  拉美",
+   "chinese": "世俗婚礼"
+  },
+  {
+   "spanish": "boda religiosa  拉美",
+   "chinese": "宗教婚礼"
+  },
+  {
+   "spanish": "divorcio  拉美",
+   "chinese": "m. 离婚"
+  },
+  {
+   "spanish": "separación  拉美",
+   "chinese": "f. 分开，分居"
+  },
+  {
+   "spanish": "matrimonio homosexual  拉美",
+   "chinese": "同性婚姻"
+  },
+  {
+   "spanish": "matrimonio heterosexual  拉美",
+   "chinese": "异性婚姻"
+  },
+  {
+   "spanish": "pareja de hecho  拉美",
+   "chinese": "同居伴侣"
+  },
+  {
+   "spanish": "burocracia  拉美",
+   "chinese": "f. 官僚主义，官僚机构"
+  },
+  {
+   "spanish": "funcionario  拉美",
+   "chinese": "m.,f. 公职人员，公务员"
+  },
+  {
+   "spanish": "Documento Nacional de Identidad (DNI)  拉美",
+   "chinese": "身份证"
+  },
+  {
+   "spanish": "solicitar un documento  拉美",
+   "chinese": "申请一份文件，证件"
+  },
+  {
+   "spanish": "renovar el pasaporte  拉美",
+   "chinese": "更换护照"
+  },
+  {
+   "spanish": "renovar el visado/la visa  拉美",
+   "chinese": "续签签证"
+  },
+  {
+   "spanish": "perder un documento  拉美",
+   "chinese": "丢失一份文件，证件"
+  },
+  {
+   "spanish": "diario  拉美",
+   "chinese": "adj. 每天的 m. 日记"
+  },
+  {
+   "spanish": "álbum de fotos  拉美",
+   "chinese": "相册"
+  },
+  {
+   "spanish": "joya  拉美",
+   "chinese": "f. 珠宝首饰"
+  },
+  {
+   "spanish": "anillo  拉美",
+   "chinese": "m. 戒指，环"
+  },
+  {
+   "spanish": "collar  拉美",
+   "chinese": "m. 项链"
+  },
+  {
+   "spanish": "pendiente  拉美",
+   "chinese": "m.耳坠 多用复数"
+  },
+  {
+   "spanish": "pulsera  拉美",
+   "chinese": "f. 手链 手镯"
+  },
+  {
+   "spanish": "madre soltera  拉美",
+   "chinese": "单身妈妈"
+  },
+  {
+   "spanish": "niño adoptado  拉美",
+   "chinese": "被收养儿童"
+  },
+  {
+   "spanish": "adoptar un niño  拉美",
+   "chinese": "收养一个孩子"
+  },
+  {
+   "spanish": "educar a los hijos  拉美",
+   "chinese": "教育儿女"
+  },
+  {
+   "spanish": "llevar diez años viviendo juntos  拉美",
+   "chinese": "一起生活十年"
+  },
+  {
+   "spanish": "obedecer/desobedecer a los padres  拉美",
+   "chinese": "听/不听父母的话"
+  },
+  {
+   "spanish": "crecer feliz/fuerte/sano  拉美",
+   "chinese": "快乐/健壮/健康地成长"
+  },
+  {
+   "spanish": "colega  拉美",
+   "chinese": "m.,f. 同事"
+  },
+  {
+   "spanish": "amigo de la infancia  拉美",
+   "chinese": "儿时的朋友"
+  },
+  {
+   "spanish": "tener novio/a  拉美",
+   "chinese": "有男/女朋友"
+  },
+  {
+   "spanish": "tener pareja  拉美",
+   "chinese": "有伴侣"
+  },
+  {
+   "spanish": "tener una relación de amistad/amor/trabajo  拉美",
+   "chinese": "有友谊/恋爱/工作关系"
+  },
+  {
+   "spanish": "empezar/acabar/terminar una relación  拉美",
+   "chinese": "开始/结束/结束一段关系"
+  },
+  {
+   "spanish": "salir con alguien  拉美",
+   "chinese": "和…约会， 和…出去玩"
+  },
+  {
+   "spanish": "romper con alguien  拉美",
+   "chinese": "和…约会/分手"
+  },
+  {
+   "spanish": "caer(se) bien/mal  拉美",
+   "chinese": "给以好/不好的印象"
+  },
+  {
+   "spanish": "llevarse bien/mal  拉美",
+   "chinese": "关系好/不好"
+  },
+  {
+   "spanish": "dar la mano  拉美",
+   "chinese": "握手"
+  },
+  {
+   "spanish": "dar un abrazo  拉美",
+   "chinese": "拥抱一下"
+  },
+  {
+   "spanish": "dar un beso  拉美",
+   "chinese": "亲一下 么么哒"
+  },
+  {
+   "spanish": "ligar  拉美",
+   "chinese": "tr. 调情，捆"
+  },
+  {
+   "spanish": "comida de Navidad  拉美",
+   "chinese": "圣诞餐"
+  },
+  {
+   "spanish": "comer con la familia  拉美",
+   "chinese": "和家人吃饭"
+  },
+  {
+   "spanish": "comida familiar  拉美",
+   "chinese": "家庭聚餐"
+  },
+  {
+   "spanish": "comida de empresa  拉美",
+   "chinese": "公司聚餐"
+  },
+  {
+   "spanish": "comida de negocios  拉美",
+   "chinese": "生意饭局"
+  },
+  {
+   "spanish": "reunión formal/informal  拉美",
+   "chinese": "正式/非正式会议"
+  },
+  {
+   "spanish": "despedida de soltero  拉美",
+   "chinese": "道别单身派对"
+  },
+  {
+   "spanish": "boda  拉美",
+   "chinese": "f. 婚礼"
+  },
+  {
+   "spanish": "irse de luna de miel  拉美",
+   "chinese": "去度蜜月"
+  },
+  {
+   "spanish": "felicitar  拉美",
+   "chinese": "tr. 祝愿，祝贺"
+  },
+  {
+   "spanish": "hacer un regalo  拉美",
+   "chinese": "送一个礼物"
+  },
+  {
+   "spanish": "envolver un regalo  拉美",
+   "chinese": "包装一个礼物"
+  },
+  {
+   "spanish": "abrir un regalo  拉美",
+   "chinese": "打开一个礼物"
+  },
+  {
+   "spanish": "actitud agradable/positiva/extraña  拉美",
+   "chinese": "令人愉悦的的/积极的/奇怪的态度"
+  },
+  {
+   "spanish": "tratar bien/mal a alguien  拉美",
+   "chinese": "对待某人好/不好"
+  },
+  {
+   "spanish": "tener una buena/mala actitud  拉美",
+   "chinese": "有一个好的/不好的态度"
+  },
+  {
+   "spanish": "alimentación sana  拉美",
+   "chinese": "健康的饮食"
+  },
+  {
+   "spanish": "alimentación equilibrada  拉美",
+   "chinese": "均衡的饮食"
+  },
+  {
+   "spanish": "producto natural  拉美",
+   "chinese": "天然产品"
+  },
+  {
+   "spanish": "producto para diabéticos  拉美",
+   "chinese": "糖尿病人产品"
+  },
+  {
+   "spanish": "alimento ligero/comida ligera  拉美",
+   "chinese": "轻食"
+  },
+  {
+   "spanish": "alimento pesado/comida pesada  拉美",
+   "chinese": "和轻食相反（高脂肪、高热量等）"
+  },
+  {
+   "spanish": "caloría  拉美",
+   "chinese": "f. 卡路里"
+  },
+  {
+   "spanish": "vitamina  拉美",
+   "chinese": "f. 维生素"
+  },
+  {
+   "spanish": "proteína  拉美",
+   "chinese": "f. 蛋白质"
+  },
+  {
+   "spanish": "fibra  拉美",
+   "chinese": "f. 纤维"
+  },
+  {
+   "spanish": "hierro  拉美",
+   "chinese": "m. 铁"
+  },
+  {
+   "spanish": "alimentar(se)  拉美",
+   "chinese": "prnl.吃 tr. 供给，养活"
+  },
+  {
+   "spanish": "infusión de tila  拉美",
+   "chinese": "椴树叶茶"
+  },
+  {
+   "spanish": "infusión de manzanilla  拉美",
+   "chinese": "母菊茶"
+  },
+  {
+   "spanish": "abrir una botella  拉美",
+   "chinese": "打开一个瓶子"
+  },
+  {
+   "spanish": "servir la bebida  拉美",
+   "chinese": "向杯子里倒饮料"
+  },
+  {
+   "spanish": "probar la bebida  拉美",
+   "chinese": "品尝饮料"
+  },
+  {
+   "spanish": "tomar una copa de vino  拉美",
+   "chinese": "喝杯葡萄酒"
+  },
+  {
+   "spanish": "estar borracho  拉美",
+   "chinese": "喝醉了"
+  },
+  {
+   "spanish": "tener resaca  拉美",
+   "chinese": "宿醉"
+  },
+  {
+   "spanish": "marisco  拉美",
+   "chinese": "m. 海鲜"
+  },
+  {
+   "spanish": "especia  拉美",
+   "chinese": "f. 调料，香料"
+  },
+  {
+   "spanish": "embutido  拉美",
+   "chinese": "m. 肉肠"
+  },
+  {
+   "spanish": "lomo  拉美",
+   "chinese": "m. 脊肉，脊部"
+  },
+  {
+   "spanish": "salchichón  拉美",
+   "chinese": "m. 大腊肠，大香肠；DELE B1词汇三（201-300）；Video preview；西班牙语中文"
+  },
+  {
+   "spanish": "Chorizo  拉美",
+   "chinese": "m. 一种猪肉肠。"
+  },
+  {
+   "spanish": "Berenjena  拉美",
+   "chinese": "f. 茄子。"
+  },
+  {
+   "spanish": "Calabacita  拉美",
+   "chinese": "（墨西哥）f. 西葫芦。"
+  },
+  {
+   "spanish": "Calabacín  拉美",
+   "chinese": "（西班牙）m. 西葫芦。"
+  },
+  {
+   "spanish": "Espinaca  拉美",
+   "chinese": "f. 菠菜。"
+  },
+  {
+   "spanish": "Chícharo  拉美",
+   "chinese": "（墨西哥）m. 豌豆。"
+  },
+  {
+   "spanish": "Guisante  拉美",
+   "chinese": "（西班牙）m. 豌豆。"
+  },
+  {
+   "spanish": "Lenteja  拉美",
+   "chinese": "f. 兵豆（小扁豆）。"
+  },
+  {
+   "spanish": "Frijol  拉美",
+   "chinese": "（墨西哥）f. 豆，菜豆。"
+  },
+  {
+   "spanish": "Judía  拉美",
+   "chinese": "（西班牙）f. 豆，菜豆。"
+  },
+  {
+   "spanish": "Garbanzo  拉美",
+   "chinese": "m. 鹰嘴豆。"
+  },
+  {
+   "spanish": "Magdalena  拉美",
+   "chinese": "f. 西班牙玛芬蛋糕。"
+  },
+  {
+   "spanish": "Cereza  拉美",
+   "chinese": "f. 樱桃。"
+  },
+  {
+   "spanish": "Piña  拉美",
+   "chinese": "f. 菠萝。"
+  },
+  {
+   "spanish": "Kiwi  拉美",
+   "chinese": "m. 猕猴桃。"
+  },
+  {
+   "spanish": "Leche entera  拉美",
+   "chinese": "全脂牛奶。"
+  },
+  {
+   "spanish": "Leche descremada  拉美",
+   "chinese": "脱脂牛奶。"
+  },
+  {
+   "spanish": "Nata  拉美",
+   "chinese": "f. 奶皮，乳脂，（某些液体表面凝结的）皮，。"
+  },
+  {
+   "spanish": "Yogur  拉美",
+   "chinese": "m. 酸奶。"
+  },
+  {
+   "spanish": "Costilla de cordero  拉美",
+   "chinese": "羊肋排。"
+  },
+  {
+   "spanish": "Chuleta de cerdo  拉美",
+   "chinese": "猪排。"
+  },
+  {
+   "spanish": "Pechuga de pollo  拉美",
+   "chinese": "鸡胸。"
+  },
+  {
+   "spanish": "Solomillo  拉美",
+   "chinese": "（西班牙）m. 里脊。"
+  },
+  {
+   "spanish": "Aceite de oliva  拉美",
+   "chinese": "橄榄油。"
+  },
+  {
+   "spanish": "Aceite de girasol  拉美",
+   "chinese": "葵花籽油。"
+  },
+  {
+   "spanish": "Vinagre  拉美",
+   "chinese": "m. 醋。"
+  },
+  {
+   "spanish": "Mostaza  拉美",
+   "chinese": "f. 芥末。"
+  },
+  {
+   "spanish": "Clara de huevo  拉美",
+   "chinese": "鸡蛋清。"
+  },
+  {
+   "spanish": "Yema de huevo  拉美",
+   "chinese": "鸡蛋黄。"
+  },
+  {
+   "spanish": "Cáscara de huevo  拉美",
+   "chinese": "鸡蛋壳。"
+  },
+  {
+   "spanish": "Receta  拉美",
+   "chinese": "f. 处方，菜谱。"
+  },
+  {
+   "spanish": "Ingrediente  拉美",
+   "chinese": "m. 成分，配料。"
+  },
+  {
+   "spanish": "Modo de preparación  拉美",
+   "chinese": "准备方法。"
+  },
+  {
+   "spanish": "Carne a la plancha  拉美",
+   "chinese": "铁板肉，煎肉。"
+  },
+  {
+   "spanish": "Carne frita  拉美",
+   "chinese": "炸肉。"
+  },
+  {
+   "spanish": "Blando  拉美",
+   "chinese": "adj. 松软的。"
+  },
+  {
+   "spanish": "Duro  拉美",
+   "chinese": "adj. 硬的。"
+  },
+  {
+   "spanish": "Crudo  拉美",
+   "chinese": "adj. 生的。"
+  },
+  {
+   "spanish": "Poco hecho  拉美",
+   "chinese": "三分熟。"
+  },
+  {
+   "spanish": "Muy hecho  拉美",
+   "chinese": "全熟。"
+  },
+  {
+   "spanish": "Salado  拉美",
+   "chinese": "adj. 咸的。"
+  },
+  {
+   "spanish": "Dulce  拉美",
+   "chinese": "adj. 甜的 m.糖果。"
+  },
+  {
+   "spanish": "Picante  拉美",
+   "chinese": "adj. 辣的。"
+  },
+  {
+   "spanish": "Amargo  拉美",
+   "chinese": "adj. 苦的。"
+  },
+  {
+   "spanish": "Freír  拉美",
+   "chinese": "tr. 油炸。"
+  },
+  {
+   "spanish": "Hervir  拉美",
+   "chinese": "tr. 煮 intr.沸腾。"
+  },
+  {
+   "spanish": "Cocer  拉美",
+   "chinese": "tr. 煮，燉，熬。"
+  },
+  {
+   "spanish": "Asar  拉美",
+   "chinese": "tr. 烤。"
+  },
+  {
+   "spanish": "Hacer pasta  拉美",
+   "chinese": "做面，煮面。"
+  },
+  {
+   "spanish": "Hervir agua  拉美",
+   "chinese": "做水。"
+  },
+  {
+   "spanish": "Hervir leche  拉美",
+   "chinese": "煮牛奶。"
+  },
+  {
+   "spanish": "Batir huevos  拉美",
+   "chinese": "搅拌鸡蛋。"
+  },
+  {
+   "spanish": "Freír papas  拉美",
+   "chinese": "炸土豆。"
+  },
+  {
+   "spanish": "Pelar fruta  拉美",
+   "chinese": "削水果。"
+  },
+  {
+   "spanish": "Cortar carne  拉美",
+   "chinese": "切肉。"
+  },
+  {
+   "spanish": "Aliñar una ensalada  拉美",
+   "chinese": "给沙拉放调味品。"
+  },
+  {
+   "spanish": "Se quemó la comida  拉美",
+   "chinese": "饭糊了。"
+  },
+  {
+   "spanish": "Sopa de pescado  拉美",
+   "chinese": "鱼汤。"
+  },
+  {
+   "spanish": "Sopa de verduras  拉美",
+   "chinese": "蔬菜汤。"
+  },
+  {
+   "spanish": "Gazpacho  拉美",
+   "chinese": "m. 番茄冷汤。"
+  },
+  {
+   "spanish": "Cocido  拉美",
+   "chinese": "adj. 煮熟的。"
+  },
+  {
+   "spanish": "Croqueta  拉美",
+   "chinese": "f. 丸子。"
+  },
+  {
+   "spanish": "Tener un sabor muy bueno  拉美",
+   "chinese": "味道很好。"
+  },
+  {
+   "spanish": "Sabor agradable  拉美",
+   "chinese": "味道好。"
+  },
+  {
+   "spanish": "Insípido  拉美",
+   "chinese": "adj. 淡的，乏味的。"
+  },
+  {
+   "spanish": "Cuchara  拉美",
+   "chinese": "f. 勺子。"
+  },
+  {
+   "spanish": "Tenedor  拉美",
+   "chinese": "m. 叉子。"
+  },
+  {
+   "spanish": "Cuchillo  拉美",
+   "chinese": "m. 刀。"
+  },
+  {
+   "spanish": "Sartén  拉美",
+   "chinese": "f. 平底锅。"
+  },
+  {
+   "spanish": "Cazo  拉美",
+   "chinese": "m. 带把锅。"
+  },
+  {
+   "spanish": "Mantel  拉美",
+   "chinese": "m. 桌布。"
+  },
+  {
+   "spanish": "Copa de vino  拉美",
+   "chinese": "高脚杯。"
+  },
+  {
+   "spanish": "Taza de café  拉美",
+   "chinese": "咖啡杯。"
+  },
+  {
+   "spanish": "Una jarra de cerveza  拉美",
+   "chinese": "一扎啤酒。"
+  },
+  {
+   "spanish": "Recoger la mesa  拉美",
+   "chinese": "收拾桌子。"
+  },
+  {
+   "spanish": "Retirar los platos  拉美",
+   "chinese": "撤盘子。"
+  },
+  {
+   "spanish": "Lavar los platos  拉美",
+   "chinese": "洗盘子。"
+  },
+  {
+   "spanish": "Poner el lavaplatos  拉美",
+   "chinese": "把碗放到洗碗机里洗。"
+  },
+  {
+   "spanish": "Restaurante sencillo  拉美",
+   "chinese": "简易平价餐厅。"
+  },
+  {
+   "spanish": "Restaurante de lujo  拉美",
+   "chinese": "高档奢华餐厅。"
+  },
+  {
+   "spanish": "Comida casera  拉美",
+   "chinese": "家常菜。"
+  },
+  {
+   "spanish": "Comida tradicional  拉美",
+   "chinese": "传统食物。"
+  },
+  {
+   "spanish": "Cocina ecuatoriana  拉美",
+   "chinese": "厄瓜多尔美食。"
+  },
+  {
+   "spanish": "Traer el primer plato  拉美",
+   "chinese": "上第一道菜。"
+  },
+  {
+   "spanish": "Traer el segundo plato  拉美",
+   "chinese": "上第二道菜。"
+  },
+  {
+   "spanish": "Tomar un aperitivo  拉美",
+   "chinese": "吃份开胃菜。"
+  },
+  {
+   "spanish": "Ir a comer  拉美",
+   "chinese": "去吃饭。"
+  },
+  {
+   "spanish": "Para comer aquí  拉美",
+   "chinese": "堂食，在这吃。"
+  },
+  {
+   "spanish": "Para llevar  拉美",
+   "chinese": "打包。"
+  },
+  {
+   "spanish": "Campus  拉美",
+   "chinese": "m. 校园。"
+  },
+  {
+   "spanish": "Secretaría  拉美",
+   "chinese": "f. 秘书处 【拉美】 (政府）的部。"
+  },
+  {
+   "spanish": "Administración  拉美",
+   "chinese": "f. 管理，经营，行政机关。"
+  },
+  {
+   "spanish": "Centro de recursos  拉美",
+   "chinese": "资源中心。"
+  },
+  {
+   "spanish": "Aula multimedia  拉美",
+   "chinese": "多媒体教室。"
+  },
+  {
+   "spanish": "Escuela pública  拉美",
+   "chinese": "（墨西哥）公立学校。"
+  },
+  {
+   "spanish": "Colegio público  拉美",
+   "chinese": "（西班牙）公立学校。"
+  },
+  {
+   "spanish": "Colegio privado  拉美",
+   "chinese": "私立学校。"
+  },
+  {
+   "spanish": "Guardería  拉美",
+   "chinese": "f. 托儿所。"
+  },
+  {
+   "spanish": "Jardín de niños  拉美",
+   "chinese": "幼儿园。"
+  },
+  {
+   "spanish": "Clase teórica  拉美",
+   "chinese": "理论课。"
+  },
+  {
+   "spanish": "Clase práctica  拉美",
+   "chinese": "实践课。"
+  }
+ ]
+}
